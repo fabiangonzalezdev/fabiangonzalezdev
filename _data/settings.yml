@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
 
-title: EmaSato.Dev
-tab__title: EmaSato.Dev¡Todos podemos programar! Programación y tecnología
+title: Fabian Gonzalez
+tab__title: Fabian Gonzalez¡Todos podemos programar! Programación y tecnología
 meta__title: Ingeniero de software en DEPT™. Artículos, vídeos, recursos y tutoriales sobre  programación, Frontend, JavaScript ☕️, React ⚛️, CSS y tecnología
 logo: #'/assets/img/logo.webp'
 description: Ingeniero de software en DEPT™. Artículos, vídeos, recursos y tutoriales sobre  programación, Frontend, JavaScript ☕️, React ⚛️, CSS y tecnología
@@ -125,6 +125,6 @@ google-analytics: G-0FJ2SRHHEC # Add your identifier. For example UA-99631805-1.
 social:
 - {icon: "ion-logo-twitter", link: "https://x.com/emasatodev"}
 - {icon: "ion-logo-github", link: "https://github.com/fabiangonzalezdev"}
-- {icon: "ion-logo-instagram", link: "https://www.instagram.com/emasato.dev/"}
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/Fabian Gonzalez/"}
 - {icon: "ion-logo-youtube", link: "https://www.youtube.com/@emasatodev"}
 - {icon: "ion-logo-tiktok", link: "https://www.tiktok.com/@emasatodev"}
