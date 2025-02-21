@@ -1,0 +1,122 @@
+#-------------------------------
+# Site Settings
+
+title: FabianGonzalez 
+tab__title: FabianGonzalez ¡Todos podemos programar! Programación y tecnología
+meta__title: Ingeniero de software en DEPT™. Artículos, vídeos, recursos y tutoriales sobre  programación, Frontend, JavaScript ☕️, React ⚛️, CSS y tecnología
+logo: #'/images/logo.webp'
+description: Ingeniero de software en DEPT™. Artículos, vídeos, recursos y tutoriales sobre  programación, Frontend, JavaScript ☕️, React ⚛️, CSS y tecnología
+
+menu__settings:
+  menu__items:
+ 
+    - title: 'Proyectos'
+      url: '/projects/'
+    - title: 'Blog'
+      url: '/blog/'
+    - title: 'Curriculum'
+      url: '/curriculum'
+    - title: 'Links'
+      url: '/links'
+
+
+# Call to action button
+cta__button__text: Mi Curriculum
+cta__button_url: '/cv/curriculum-fabian-gonzalez.pdf'
+
+# Add global cover image (This field adds a background to the top and bottom of the site.)
+cover__image: '/images/background.svg'
+
+
+#-------------------------------
+# Author Settings
+
+author:
+  name: Fabian Gonzalez
+  title: 👋 Soy Fabian Gonzalez
+  # bio: Art Director & Graphic Designer based in Australia, crafting beautiful and functional websites and mobile apps. When I’m not working, I’m probably listening to relaxing music or traveling somewhere.
+  bio: "
+<b>Ingeniero de Software</b> experto en AEM, HTML, CSS, JS, PHP, MySQL, ReactJS. Apasionado por la tecnología y el desarrollo web 🤓"
+  image: '/assets/img/600x600.webp'
+  imageMobile: '/assets/img//avatar.png'
+  avatar: '/images/sato-avatar.webp'
+  button__text: Agenda reunión laboral 📅
+  button__text2: Descarga mi curriculum 📝
+
+
+#-------------------------------
+# Projects Settings
+
+projects__settings:
+  projects__title: Últimos <span class="text-span">Trabajos</span> # Add a 'text-span' class to highlight text.
+  projects__description: "Mis últimos trabajos de desarrollo web y diseño:"
+
+
+#-------------------------------
+# Testimonials Section
+
+testimonial__title: Mis  <span class="text-span">Clientes</span> # Add a 'text-span' class to highlight text.
+
+testimonial-items:
+  - name: "Levi Robertson"
+    image: "/images/testimonial-levi.jpeg"
+    designation : "Host of JAMstack Phoenix"
+    content : "The Angular Tutorial along with Fabian’s advice has completely changed my career..."
+
+  - name: "Kaeside Iwuagwu"
+    image: "/images/testimonial-kaeside.jpeg"
+    designation : "Implementation Manager at WebMD"
+    content : "Fabian has a knack for breaking down complex topics and keeps learning Angular fun."
+
+  - name: "Matthew Knowles"
+    image: "/images/testimonial-matthew.jpeg"
+    designation : "Software Engineer"
+    content : "If you are using Angular in a professional setting I can not recommend The Angular Tutorial highly enough."
+
+#-------------------------------
+# Blog Section
+
+blog__settings:
+  blog__title: Posteos recientes del <span class="text-span">Blog</span> # Add a 'text-span' class to highlight text.
+  blog__description:
+
+
+#-------------------------------
+# Contact Settings
+
+contact__settings:
+  contact__email: fabiangonzalezdev@gmail.com # Add your email for contact form
+  contact__title: Estate <span class="text-span">en contacto</span>  # Add a title to your form
+  contact__description: ¿QUieres hablar de trabajo? ¿QUieres hablar de Webdev o diseño? ¡Acá estoy!. # Add a description to your form
+
+# NOTE
+# Avenco comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+
+#-------------------------------
+# Newsletter Settings
+mailchimp__settings:
+  mailchimp__title: <span class="text-span">Contáctate</span> Conmigo  # Add your title
+  mailchimp__text: " 'Para hablar de trabajo', 'Para hablar de programación' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
+  mailchimp__identifier:  http://eepurl.com/hIkfHr # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/Suscribite/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+  mailchimp__button__text: Envíame Whatsapp &nbsp; <i class="ion ion-logo-whatsapp"></i> # Add your button text
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: https-FabianGonzalez-github-io # add your shortname for Disqus Comment. For example anvodstudio-demo
+
+#-------------------------------
+# Google Analytics
+google-analytics: G-0FJ2SRHHEC # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Footer Settings
+# Social Links
+
+social:
+- {icon: "ion-logo-twitter", link: "https://x.com/gonndev"}
+- {icon: "ion-logo-github", link: "https://github.com/fabiangonzalezdev"}
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/fabiangonzalezdev"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/@GonnDev"}
+- {icon: "ion-logo-tiktok", link: "https://www.tiktok.com/@gonndev"}
