@@ -12,7 +12,7 @@
 
 ---
 
-Bienvenidos a mi repositorio. Soy Fabián González, un apasionado ingeniero de software con experiencia en el desarrollo web full stack y especializado en Adobe Experience Manager (AEM). Tengo más de 5 años trabajando en proyectos complejos de desarrollo web, integraciones y optimización para clientes globales.
+Bienvenidos a mi repositorio. Soy Ema Sato, un apasionado ingeniero de software con experiencia en el desarrollo web full stack y especializado en Adobe Experience Manager (AEM). Tengo más de 5 años trabajando en proyectos complejos de desarrollo web, integraciones y optimización para clientes globales.
 
 
 
@@ -36,7 +36,7 @@ Puedes ver más sobre mi trabajo y proyectos en mi [sitio web personal](https://
 
 ## 📫 Contáctame
 
-- **LinkedIn**: [Fabián González](https://www.linkedin.com/in/fabiangonzalezdev/)
+- **LinkedIn**: [Ema Sato](https://www.linkedin.com/in/fabiangonzalezdev/)
 - **Correo electrónico**: fabiangonzalezdev@gmail.com
 
 ---

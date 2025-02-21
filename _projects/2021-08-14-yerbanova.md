@@ -1,9 +1,9 @@
 ---
 title: Yerbanova - Página Oficial Argentina
-date: 2018-06-14 07:30:35 +0300
+date: 2018-08-14 07:30:35 +0300
 subtitle: Desarrollo Web
 description: Cliente - Yerbanova
-image: '/images/portfolio/yerbanova.webp'
+image: '/assets/img/portfolio/yerbanova.webp'
 ---
 
 
@@ -28,4 +28,4 @@ Programación de página web, diseño UX/UI y desarrollo de página de e-commerc
 <div class="block-header inner-sm" style="margin-bottom: 1.5em">
   <h2 class="block-title line-top">Screenshot Completo:</h2>
 </div>
-  <img loading="lazy"  width="100%" height="100%" src="/images/portfolio/yerbanovafull.webp">
+  <img loading="lazy"  width="100%" height="100%" src="/assets/img/portfolio/yerbanovafull.webp">

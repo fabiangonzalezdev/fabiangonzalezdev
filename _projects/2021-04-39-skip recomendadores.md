@@ -3,7 +3,7 @@ title: Data capture - Skip recomendadores
 date: 2021-09-14 07:30:35 +0300
 subtitle: Trabajo junto a Oliver Argentina
 description: Cliente - Oliver
-image: '/images/portfolio/skip recomendadores.webp'
+image: '/assets/img/portfolio/skip recomendadores.webp'
 ---
 
 

@@ -23,6 +23,7 @@
       margin: 0;
       font-size: 40px;
       font-weight: 900;
+
     }
   
     .section__link {
@@ -77,8 +78,27 @@
   }
 }
 
-.text-span {
-  background: linear-gradient(135deg, $primary-color 38%, $secondary-color 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+
+
+.misServicios {
+  border-radius: 30px;
+  font-family:  "Nunito",Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-weight: 700;
+  color: #fff;
+  background-color: #a5aede;
+  text-align: center;
+  padding: 20px;
+  transition: transform 0.3s ease;
+
+  &:hover {
+    transform: translateY(-10px);
+  }
+
+  h3, p {
+    margin: 10px 0;
+  }
+
+  i {
+    margin-bottom: 15px;
+  }
 }

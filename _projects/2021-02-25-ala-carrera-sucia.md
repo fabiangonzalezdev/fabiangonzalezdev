@@ -3,7 +3,7 @@ title: Data capture - Ala para diluir carrera sucia
 date: 2021-09-14 07:30:35 +0300
 subtitle: Trabajo junto a Oliver Argentina
 description: Cliente - Oliver
-image: '/images/portfolio/alaparadiluir-carrerasuicia.webp'
+image: '/assets/img/portfolio/alaparadiluir-carrerasuicia.webp'
 ---
 
 

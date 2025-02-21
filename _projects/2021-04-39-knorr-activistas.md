@@ -3,7 +3,7 @@ title: Data capture - Knorr activistas de la mesa
 date: 2021-09-14 07:30:35 +0300
 subtitle: Trabajo junto a Oliver Argentina
 description: Cliente - Oliver
-image: '/images/portfolio/knorr activistas de la mesa.webp'
+image: '/assets/img/portfolio/knorr activistas de la mesa.webp'
 ---
 
 

@@ -3,7 +3,7 @@ title: Data capture - Tresemmé Master class
 date: 2021-09-14 07:30:35 +0300
 subtitle: Trabajo junto a Oliver Argentina
 description: Cliente - Oliver
-image: '/images/portfolio/tresemme-master-class.webp'
+image: '/assets/img/portfolio/tresemme-master-class.webp'
 ---
 
 

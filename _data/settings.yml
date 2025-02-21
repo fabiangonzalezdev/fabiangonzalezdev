@@ -1,31 +1,39 @@
 #-------------------------------
 # Site Settings
 
-title: FabianGonzalez 
-tab__title: FabianGonzalez ¡Todos podemos programar! Programación y tecnología
+title: EmaSato.Dev
+tab__title: EmaSato.Dev¡Todos podemos programar! Programación y tecnología
 meta__title: Ingeniero de software en DEPT™. Artículos, vídeos, recursos y tutoriales sobre  programación, Frontend, JavaScript ☕️, React ⚛️, CSS y tecnología
-logo: #'/images/logo.webp'
+logo: #'/assets/img/logo.webp'
 description: Ingeniero de software en DEPT™. Artículos, vídeos, recursos y tutoriales sobre  programación, Frontend, JavaScript ☕️, React ⚛️, CSS y tecnología
 
 menu__settings:
   menu__items:
- 
     - title: 'Proyectos'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'Curriculum'
-      url: '/curriculum'
+   #  - title: 'Blog'
+    #   url: '/blog/'
+   #  - title: 'Curriculum'
+  #     url: '/curriculum'
     - title: 'Links'
       url: '/links'
+
+   # - title: 'Servicios'
+    #   url: '/servicios'
+      
+  #  - title: 'Cursos'
+  #    submenu:
+  #      - title: 'JavaScript'
+  #       url: '/javascript'
+
 
 
 # Call to action button
 cta__button__text: Mi Curriculum
-cta__button_url: '/cv/curriculum-fabian-gonzalez.pdf'
+cta__button_url: '/servicesf'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
-cover__image: '/images/background.svg'
+cover__image: '/assets/img/background.svg'
 
 
 #-------------------------------
@@ -33,15 +41,15 @@ cover__image: '/images/background.svg'
 
 author:
   name: Fabian Gonzalez
-  title: 👋 Soy Fabian Gonzalez
+  title: Soluciones web que impulsan negocios y mejoran experiencias <i class="bi bi-rocket-takeoff"></i>
   # bio: Art Director & Graphic Designer based in Australia, crafting beautiful and functional websites and mobile apps. When I’m not working, I’m probably listening to relaxing music or traveling somewhere.
   bio: "
-<b>Ingeniero de Software</b> experto en AEM, HTML, CSS, JS, PHP, MySQL, ReactJS. Apasionado por la tecnología y el desarrollo web 🤓"
+<b>Como desarrollador web senior, transformo ideas en plataformas digitales escalables, modernas y optimizadas para resultados.</b> "
   image: '/assets/img/600x600.webp'
-  imageMobile: '/assets/img//avatar.png'
-  avatar: '/images/sato-avatar.webp'
-  button__text: Agenda reunión laboral 📅
-  button__text2: Descarga mi curriculum 📝
+  imageMobile: '/assets/img/avatar.png'
+  avatar: '/assets/img/sato-avatar.webp'
+  # button__text: Comienza tu proyecto hoy
+  button__text2: Descubre cómo puedo ayudarte
 
 
 #-------------------------------
@@ -55,29 +63,29 @@ projects__settings:
 #-------------------------------
 # Testimonials Section
 
-testimonial__title: Mis  <span class="text-span">Clientes</span> # Add a 'text-span' class to highlight text.
+testimonial__title:  <span class="text-span">Testimonios</span> # Add a 'text-span' class to highlight text.
 
 testimonial-items:
-  - name: "Levi Robertson"
-    image: "/images/testimonial-levi.jpeg"
-    designation : "Host of JAMstack Phoenix"
-    content : "The Angular Tutorial along with Fabian’s advice has completely changed my career..."
+  - name: "Jorge Rannin"
+    image: "/assets/img/testimonials-georgie.jpg"
+    designation : "Consultor Especialista Marketing"
+    content : "Trabajar con Emanuel fue un gusto, gestionó y creo asesorías para AEM Cloud para el equipo de Colgate y Palmolive"
 
   - name: "Kaeside Iwuagwu"
-    image: "/images/testimonial-kaeside.jpeg"
-    designation : "Implementation Manager at WebMD"
-    content : "Fabian has a knack for breaking down complex topics and keeps learning Angular fun."
+    image: "/assets/img/testimonial2.png"
+    designation : "Product Manager"
+    content : "Trabajar con Emanuel fue una experiencia increíble para nuestra plataforma digital.  ¡Es un profesional excepcional"
 
   - name: "Matthew Knowles"
-    image: "/images/testimonial-matthew.jpeg"
-    designation : "Software Engineer"
-    content : "If you are using Angular in a professional setting I can not recommend The Angular Tutorial highly enough."
+    image: "/assets/img/testimonial3.png"
+    designation: "Director de Marketing en ORTHO CLINICAL"
+    content: "Emanuel cumplió con todos los plazos y entregó un sitio web multilingüe impecable. Su atención al detalle y profesionalismo son insuperables."
 
 #-------------------------------
 # Blog Section
 
 blog__settings:
-  blog__title: Posteos recientes del <span class="text-span">Blog</span> # Add a 'text-span' class to highlight text.
+  blog__title: ¿Quieres aprender más sobre <span class="text-span"> desarrollo web?</span> # Add a 'text-span' class to highlight text.
   blog__description:
 
 
@@ -115,8 +123,8 @@ google-analytics: G-0FJ2SRHHEC # Add your identifier. For example UA-99631805-1.
 # Social Links
 
 social:
-- {icon: "ion-logo-twitter", link: "https://x.com/gonndev"}
+- {icon: "ion-logo-twitter", link: "https://x.com/emasatodev"}
 - {icon: "ion-logo-github", link: "https://github.com/fabiangonzalezdev"}
-- {icon: "ion-logo-instagram", link: "https://www.instagram.com/fabiangonzalezdev"}
-- {icon: "ion-logo-youtube", link: "https://www.youtube.com/@GonnDev"}
-- {icon: "ion-logo-tiktok", link: "https://www.tiktok.com/@gonndev"}
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/emasato.dev/"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/@emasatodev"}
+- {icon: "ion-logo-tiktok", link: "https://www.tiktok.com/@emasatodev"}

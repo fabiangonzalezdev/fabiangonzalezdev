@@ -7,7 +7,7 @@
 
           <div class="section__info">
             <div class="section__head">
-              <h2 class="section__title">{{ site.data.settings.projects__settings.projects__title }}</h2>
+              <h2 class="section__title"><span class="text-span">Proyectos</span></h2>
               <a class="section__link" href="{{ '/projects' | relative_url }}">Ver todos <i class="ion ion-md-arrow-forward"></i></a>
             </div>
             {% if site.data.settings.projects__settings.projects__description %}
@@ -16,7 +16,8 @@
           </div>
 
           <div class="row">
-            {% for project in site.projects reversed limit:6 %}
+            {% assign sorted_projects = site.projects | sort: 'date' | reverse %} <!-- Ordena los proyectos por fecha (más recientes primero) -->
+            {% for project in sorted_projects limit:3 %} <!-- Muestra solo los 3 proyectos más recientes -->
             <article class="project col col-sm-6 col-md-6 col-lg-4">
               <div class="project__content">
                 <a href="{{ project.url }}" class="project__image">

@@ -3,14 +3,14 @@ title: Landing Promo Unilever
 date: 2021-09-14 07:30:35 +0300
 subtitle: Trabajo junto a Oliver Argentina
 description: Cliente - Oliver
-image: '/images/portfolio/shocase.webp'
+image: '/assets/img/portfolio/shocase.webp'
 ---
 
 <!-- <div class="gallery-box">
   <div class="gallery">
-     <img loading="lazy"  width="100%" height="100%" src="/images/project-5.webp" alt="Project">
-     <img loading="lazy"  width="100%" height="100%" src="/images/project-8.webp" alt="Project">
-     <img loading="lazy"  width="100%" height="100%" src="/images/project-7.webp" alt="Project">
+     <img loading="lazy"  width="100%" height="100%" src="/assets/img/project-5.webp" alt="Project">
+     <img loading="lazy"  width="100%" height="100%" src="/assets/img/project-8.webp" alt="Project">
+     <img loading="lazy"  width="100%" height="100%" src="/assets/img/project-7.webp" alt="Project">
   </div>
   <em>Projects / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div> -->

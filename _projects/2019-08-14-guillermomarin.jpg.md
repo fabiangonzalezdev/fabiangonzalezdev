@@ -3,7 +3,7 @@ title: Guillermo Marín - Página Oficial Argentina
 date: 2018-06-14 07:30:35 +0300
 subtitle: Desarrollo Web
 description: Cliente - Uniliver
-image: '/images/portfolio/guillermomarin.webp'
+image: '/assets/img/portfolio/guillermomarin.webp'
 ---
 
 

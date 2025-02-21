@@ -3,7 +3,7 @@ title: Data capture - Uniliver Protegé tu negocio
 date: 2021-09-14 07:30:35 +0300
 subtitle: Trabajo junto a Oliver Argentina
 description: Cliente - Oliver
-image: '/images/portfolio/unilever-chances corto.webp'
+image: '/assets/img/portfolio/unilever-chances corto.webp'
 ---
 
 
@@ -34,4 +34,4 @@ Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá d
 <div class="block-header inner-sm" style="margin-bottom: 1.5em">
   <h2 class="block-title line-top">Screenshot Completo:</h2>
 </div>
-  <img loading="lazy"  width="100%" height="100%" src="/images/portfolio/unilever-chances.webp">
+  <img loading="lazy"  width="100%" height="100%" src="/assets/img/portfolio/unilever-chances.webp">
