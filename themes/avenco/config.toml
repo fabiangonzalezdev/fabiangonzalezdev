@@ -69,12 +69,12 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
   #-------------------------------
   # Author Settings
   [params.author]
-    author__name = "James Clayton"
-    author__title = "Hello I’m James Clayton"
-    author__bio = "Art Director & Graphic Designer based in Australia, crafting beautiful and functional websites and mobile apps. When I’m not working, I’m probably listening to relaxing music or traveling somewhere."
+    author__name = "Fabian Gonzalez"
+    author__title = "👋 Soy Fabian Gonzalez"
+    author__bio = "Ingeniero de Software experto en AEM, HTML, CSS, JS, PHP, MySQL, ReactJS. Apasionado por la tecnología y el desarrollo web 🤓"
     author__image = "https://via.placeholder.com/600x600"
     author__avatar = "https://via.placeholder.com/200x200"
-    button__text = "See my works"
+    button__text = "Mira mis trabajos"
 
 
   #-------------------------------
