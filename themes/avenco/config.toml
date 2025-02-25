@@ -77,7 +77,7 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
     author__image = "/images/600x600.png"
     author__avatar = "/images/200x200.png"
     button__text = "Send me a Whatsapp"
-    button__text2 = "Sen my projects"
+    button__textTwo = "See my projects"
 
 #-------------------------------
 # Services Section

@@ -70,21 +70,21 @@
   }
 
   .author__btn {
-    margin-top: 44px;
+    margin-top: 22px;
     display: inline-flex;
-    justify-content: revert;
+    justify-content: center;
     align-items: center;
-    font-size: 12px;
+    font-size: 0.8em; 
     text-transform: uppercase;
     line-height: 1;
     font-weight: 800;
-    padding: 4px 12px;
+    padding: 12px 20px;
     border-radius: 30px;
-    border: 1px solid $primary-color;
-    color: $primary-color;
+    border: 1px solid #4235d0;
+    color: #4235d0;
     outline: none;
     cursor: pointer;
-    transition: all 0.35s;
+    transition: all .35s;
 
     &:hover {
       background-color: rgba($primary-color, 0.08);
@@ -113,7 +113,60 @@
     }
 
     @media only screen and (max-width: $desktop) {
-      margin-top: 36px;
+      margin-top: 16px;
+      width: 100%;
+      justify-content: center;
+    }
+  }
+
+  .author__btn-whatsapp {
+    margin-top: 22px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    line-height: 1;
+    font-weight: 800;
+    padding: 12px 20px;
+    border-radius: 30px;
+    border: 1px solid #14957B;
+    color: #14957B;
+    outline: none;
+    cursor: pointer;
+    transition: all .35s;
+    margin-left: 10px;
+
+    &:hover {
+      background-color: rgba(#25D366, 0.08);
+
+      .circle-bg {
+        transition: all .2s cubic-bezier(.215,.61,.355,1);
+        transform: scale(.94);
+      }
+    }
+
+    .circle-bg {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 24px;
+      height: 24px;
+      margin-right: 8px;
+      border-radius: 50%;
+      will-change: transform;
+      background: #25D366;
+      transition: all .2s cubic-bezier(.215, .61, .355, 1);
+    }
+
+    .button-arrow {
+      color: $white;
+    }
+
+    @media only screen and (max-width: $desktop) {
+      margin-top: 16px;
+      width: 100%;
+      justify-content: center;
     }
   }
 }

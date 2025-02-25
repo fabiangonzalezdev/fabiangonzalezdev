@@ -109,15 +109,6 @@ window.addEventListener("load", function(){
   /* ============================
   // Smooth scrolling to section
   ============================ */
-  document.querySelectorAll(".author__btn").forEach(anchor => {
-    anchor.addEventListener("click", function (e) {
-      e.preventDefault();
-
-      document.querySelector(this.getAttribute("href")).scrollIntoView({
-        behavior: "smooth"
-      });
-    });
-  });
 
 
   /* ============================
