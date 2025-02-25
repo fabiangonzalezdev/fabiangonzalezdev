@@ -53,8 +53,7 @@
 
               {{ if .Site.Params.contact.enable }}
               <li class="nav__item">
-             <!--   <a href="#" class="nav__link cta-button button button--small">{{ .Site.Params.menu.button.cta__button__text }}</a> -->
-                <a href="#" class="nav__link cta-button button button--small">Send me a Whatsapp</a>
+                <a href="https://api.whatsapp.com/send?phone=5491128973151" class="nav__link cta-button button_whatsapp">{{ .Site.Params.menu.button.cta__button__text }}  <span class="bi bi-whatsapp whatsapp-icon"></span></a>  
               </li>
               {{ end }}
 

@@ -63,10 +63,10 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
 
   # Call to action button
   [params.menu.button]
-    cta__button__text = "Courses"
+    cta__button__text = "Send me a Whatsapp "
 
  [params.menu.buttondos]
-    cta__button__textdos = "Send me a Whatsapp"
+    cta__button__textdos = "Courses"
 
   #-------------------------------
   # Author Settings
