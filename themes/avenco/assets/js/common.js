@@ -5,13 +5,14 @@ window.addEventListener("load", function(){
   // Menu
   ======================= */
   var body = document.querySelector("body"),
-  contactBox = document.querySelector(".contact-modal"),
+  // contactBox = document.querySelector(".contact-modal"),
   contactOpenButton = document.querySelector(".cta-button"),
   contactCloseButton = document.querySelector(".contact-close"),
   menuOpenIcon = document.querySelector(".nav__icon-menu"),
   menuCloseIcon = document.querySelector(".nav__icon-close"),
   menuList = document.querySelector(".main-nav");
 
+/*
   menuOpenIcon.addEventListener("click", () => {
     menuOpen();
   });
@@ -50,7 +51,7 @@ window.addEventListener("load", function(){
     contactBox.classList.remove("is-visible");
   }
 
-
+*/
   /* =======================
   // Animation Load Page
   ======================= */
