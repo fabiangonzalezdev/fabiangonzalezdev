@@ -2,7 +2,7 @@
 title: 'Cómo Obtener Subtítulos de un Video Usando JavaScript en la Consola'
 date: '2024-06-08'
 layout: post
-tag: [Javascript, Truco]
+tags: [Javascript, Truco]
 excerpt: >-
   Aprende cómo extraer y descargar subtítulos de videos utilizando JavaScript directamente desde la consola del navegador.
 description: >-

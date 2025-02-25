@@ -1,6 +1,6 @@
 ---
 title: Elements
-image: 'https://via.placeholder.com/1200x800'
+image: '/images/1200x800.png'
 ---
 
 A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.
@@ -120,8 +120,8 @@ li {
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-![Caffe](https://via.placeholder.com/1200x800)
-*Photo by [Matthew Henry](https://via.placeholder.com/1200x800) on Unsplash*
+![Caffe](/images/1200x800.png)
+*Photo by [Matthew Henry](/images/1200x800.png) on Unsplash*
 
 ***
 

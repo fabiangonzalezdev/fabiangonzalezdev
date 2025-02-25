@@ -74,8 +74,8 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
     author__name = "Fabian Gonzalez"
     author__title = "👋 Hello I’m Fabian Gonzalez"
     author__bio = "Software Engineer expert in AEM, HTML, CSS, JS, PHP, MySQL, ReactJS. Passionate about technology and web development 🤓."
-    author__image = "https://via.placeholder.com/600x600"
-    author__avatar = "https://via.placeholder.com/200x200"
+    author__image = "/images/600x600.png"
+    author__avatar = "/images/200x200.png"
     button__text = "Send me a Whatsapp"
     button__text2 = "Sen my projects"
 
@@ -134,19 +134,19 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
 
   [[params.testimonial_item]]
     name = " Jorge Rannin"
-    image = "https://via.placeholder.com/250x250"
+    image = "/images/250x250_testimonials.png"
     designation = "Consultant Marketing Specialist"
     content = "Fabian was a pleasure to work with, he managed and created AEM Cloud consultancies for the Colgate and Palmolive team."
 
   [[params.testimonial_item]]
     name = "Luis Luchessi"
-    image = "https://via.placeholder.com/250x250"
+    image = "/images/250x250_testimonials.png"
     designation = "Creator of digital properties"
     content = "Working with Fabian was an incredible experience for our digital platform, he is an exceptional professional who created a modern ecommerce system for us."
 
   [[params.testimonial_item]]
     name = "Roger Bergson"
-    image = "https://via.placeholder.com/250x250"
+    image = "/images/250x250_testimonials.png"
     designation = "CEO, Founder"
     content = "Fabian met all deadlines and delivered a flawless multilingual website. His attention to detail and professionalism are second to none."
 
@@ -193,7 +193,7 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
   [[params.social]]
     icon = "ion-logo-twitter"
     name = "X"
-    link = "https://x.com/fabiansatoshi"
+    link = "https://x.com/fabgonzalezdev"
 
     [[params.social]]
        icon = "ion-logo-github"
