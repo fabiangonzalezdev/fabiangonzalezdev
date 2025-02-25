@@ -79,6 +79,7 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
     button__text = "Send me a Whatsapp"
     button__textTwo = "See my projects"
 
+
 #-------------------------------
 # Services Section
 [params.services]
@@ -89,33 +90,32 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
   [[params.services.services_list]]
     name = "Web Development"
     description = "Modern, fast, and SEO-optimized websites focused on user experience."
-    icon = "/assets/icons/web-development.svg"
+    icon = "bi-code-slash"
 
   [[params.services.services_list]]
     name = "Ecommerce Development"
     description = "Scalable and secure e-commerce platforms designed to maximize sales and conversion."
-    icon = "/assets/icons/ecommerce.svg"
+    icon = "bi-cart"
 
   [[params.services.services_list]]
     name = "AEM Development"
     description = "Migration, optimization, and development of solutions in Adobe Experience Manager (AEM) for efficient content management."
-    icon = "/assets/icons/aem.svg"
+    icon = "bi-layers"
 
   [[params.services.services_list]]
     name = "Mobile App Development"
     description = "Intuitive and functional mobile applications designed to enhance user experience."
-    icon = "/assets/icons/mobile-app.svg"
+    icon = "bi-phone"
 
   [[params.services.services_list]]
     name = "SEO Optimization"
     description = "Website optimization for search engines, increasing visibility and organic traffic."
-    icon = "/assets/icons/seo.svg"
+    icon = "bi-graph-up"
 
   [[params.services.services_list]]
     name = "AI Integration"
     description = "Implementation of artificial intelligence solutions to automate processes and improve decision-making."
-    icon = "/assets/icons/ai.svg"
-
+    icon = "bi-cpu"
 
   #-------------------------------
   # Projects Settings

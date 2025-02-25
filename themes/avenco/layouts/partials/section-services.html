@@ -1,4 +1,3 @@
- 
 <!-- begin services -->
 {{ if .Site.Params.services.enable }}
 <section class="services">
@@ -9,8 +8,8 @@
     <div class="services__grid">
       {{ range .Site.Params.services.services_list }}
       <div class="services__card">
-        <img class="services__icon lazy" data-src="{{ .icon }}" alt="{{ .name }} icon">
-        <h3 class="services__name">{{ .name }}</h3>
+        <i class="services__icon bi {{ .icon }}"></i>
+        <h3 class="services__name"><span class='text-span'>{{ .name }}</span></h3>
         <p class="services__text">{{ .description }}</p>
       </div>
       {{ end }}
