@@ -6,119 +6,224 @@
     <description>Recent content on FabianGonzalez</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jan 2022 15:01:35 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>That which does not kill us makes us stronger</title>
-      <link>http://localhost:1313/posts/that-which-does-not-kill-us-makes-us-stronger/</link>
-      <pubDate>Tue, 25 Jan 2022 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/that-which-does-not-kill-us-makes-us-stronger/</guid>
-      <description>&lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.&lt;/p&gt;</description>
+      <title>Cómo Obtener Subtítulos de un Video Usando JavaScript en la Consola</title>
+      <link>http://localhost:1313/posts/2024-06-08-obtener-subtitulos-de-un-video/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-06-08-obtener-subtitulos-de-un-video/</guid>
+      <description>&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;&#xA;&lt;p&gt;En este tutorial aprenderás cómo extraer y descargar subtítulos de videos utilizando JavaScript directamente desde la consola del navegador. Este método es útil para videos que ya tienen subtítulos embebidos y te permite guardarlos fácilmente en tu dispositivo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;requisitos&#34;&gt;Requisitos&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Navegador web (preferiblemente Chrome o Firefox)&lt;/li&gt;&#xA;&lt;li&gt;Video con subtítulos embebidos&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;pasos&#34;&gt;Pasos&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-abrir-el-video-y-activar-subtítulos&#34;&gt;1. Abrir el Video y Activar Subtítulos&lt;/h3&gt;&#xA;&lt;p&gt;Primero, abre el video del cual quieres extraer los subtítulos y asegúrate de que los subtítulos están activados.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Abstraction</title>
-      <link>http://localhost:1313/projects/abstraction/</link>
-      <pubDate>Tue, 25 Jan 2022 08:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/projects/abstraction/</guid>
-      <description>&lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.&lt;/p&gt;</description>
+      <title>Data capture - Ala para diluir carrera sucia</title>
+      <link>http://localhost:1313/projects/2021-02-25-ala-carrera-sucia/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-02-25-ala-carrera-sucia/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca ALA de Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Minimalism</title>
-      <link>http://localhost:1313/projects/minimalism/</link>
-      <pubDate>Tue, 25 Jan 2022 08:00:35 +0300</pubDate>
-      <guid>http://localhost:1313/projects/minimalism/</guid>
-      <description>&lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.&lt;/p&gt;</description>
+      <title>Data capture - Axe Promoción 2021</title>
+      <link>http://localhost:1313/projects/2021-03-25-axe/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-03-25-axe/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Axe de Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Macbook</title>
-      <link>http://localhost:1313/projects/macbook/</link>
-      <pubDate>Tue, 25 Jan 2022 07:50:35 +0300</pubDate>
-      <guid>http://localhost:1313/projects/macbook/</guid>
-      <description>&lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.&lt;/p&gt;</description>
+      <title>Data capture - Cif Bioactive</title>
+      <link>http://localhost:1313/projects/2021-04-25-cif-bioactive/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-25-cif-bioactive/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Cif Bioactive de Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Start Over</title>
-      <link>http://localhost:1313/projects/start-over/</link>
-      <pubDate>Tue, 25 Jan 2022 07:40:35 +0300</pubDate>
-      <guid>http://localhost:1313/projects/start-over/</guid>
-      <description>&lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.&lt;/p&gt;</description>
+      <title>Data capture - Cif Registrate y participá</title>
+      <link>http://localhost:1313/projects/2021-04-39-cif-registrate/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-cif-registrate/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Cif Registrate y participá de Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>City Lights</title>
-      <link>http://localhost:1313/projects/city-lights/</link>
-      <pubDate>Tue, 25 Jan 2022 07:30:35 +0300</pubDate>
-      <guid>http://localhost:1313/projects/city-lights/</guid>
-      <description>&lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.&lt;/p&gt;</description>
+      <title>Data capture - Club Skip</title>
+      <link>http://localhost:1313/projects/2021-04-39-club-skip/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-club-skip/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Club Skipde Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Illustration</title>
-      <link>http://localhost:1313/projects/illustration/</link>
-      <pubDate>Tue, 25 Jan 2022 07:20:35 +0300</pubDate>
-      <guid>http://localhost:1313/projects/illustration/</guid>
-      <description>&lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.&lt;/p&gt;</description>
+      <title>Data capture - Ct Skip</title>
+      <link>http://localhost:1313/projects/2021-04-39-ctskip/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-ctskip/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Ct Skipde Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Do what you can, with what you have, where you are</title>
-      <link>http://localhost:1313/posts/do-what-you-can-with-what-you-have-where-you-are/</link>
-      <pubDate>Mon, 24 Jan 2022 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/do-what-you-can-with-what-you-have-where-you-are/</guid>
-      <description>&lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.&lt;/p&gt;</description>
+      <title>Data capture - Dove mes del padre</title>
+      <link>http://localhost:1313/projects/2021-04-39-dove-mes-del-padre/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-dove-mes-del-padre/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Dove mes del padre de Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Strive not to be a success, but rather to be of value</title>
-      <link>http://localhost:1313/posts/strive-not-to-be-a-success-but-rather-to-be-of-value/</link>
-      <pubDate>Sun, 23 Jan 2022 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/strive-not-to-be-a-success-but-rather-to-be-of-value/</guid>
-      <description>&lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.&lt;/p&gt;</description>
+      <title>Data capture - Dove Pelo</title>
+      <link>http://localhost:1313/projects/2021-04-39-dove-pelo/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-dove-pelo/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Dove Pelode Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Life shrinks or expands in proportion to one’s courage</title>
-      <link>http://localhost:1313/posts/life-shrinks-or-expands-in-proportion-to-ones-courage/</link>
-      <pubDate>Sat, 22 Jan 2022 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/life-shrinks-or-expands-in-proportion-to-ones-courage/</guid>
-      <description>&lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.&lt;/p&gt;</description>
+      <title>Data capture - Knorr activistas de la mesa</title>
+      <link>http://localhost:1313/projects/2021-04-39-knorr-activistas/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-knorr-activistas/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Knorr activistas de la mesade Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>You must be the change you wish to see in the world</title>
-      <link>http://localhost:1313/posts/you-must-be-the-change-you-wish-to-see-in-the-world/</link>
-      <pubDate>Fri, 21 Jan 2022 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/you-must-be-the-change-you-wish-to-see-in-the-world/</guid>
-      <description>&lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.&lt;/p&gt;</description>
+      <title>Data capture - Registrá tu service</title>
+      <link>http://localhost:1313/projects/2021-04-39-registra-tu-service/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-registra-tu-service/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Registrá tu servicede Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Believe and act as if it were impossible to fail</title>
-      <link>http://localhost:1313/posts/believe-and-act-as-if-it-were-impossible-to-fail/</link>
-      <pubDate>Wed, 19 Jan 2022 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/believe-and-act-as-if-it-were-impossible-to-fail/</guid>
-      <description>&lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.&lt;/p&gt;</description>
+      <title>Data capture - Rexona boca</title>
+      <link>http://localhost:1313/projects/2021-04-39-rexona-boca/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-rexona-boca/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Rexona bocade Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>The way I see it, every life is a pile of good things</title>
-      <link>http://localhost:1313/posts/the-way-i-see-it-every-life-is-a-pile-of-good-things/</link>
-      <pubDate>Tue, 18 Jan 2022 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/the-way-i-see-it-every-life-is-a-pile-of-good-things/</guid>
-      <description>&lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.&lt;/p&gt;</description>
+      <title>Data capture - Rexona copa libertadores</title>
+      <link>http://localhost:1313/projects/2021-04-39-rexona-copa-libertadores/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-rexona-copa-libertadores/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Rexona copa libertadores de Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Everything has beauty, but not everyone can see</title>
-      <link>http://localhost:1313/posts/everything-has-beauty-but-not-everyone-can-see/</link>
-      <pubDate>Mon, 17 Jan 2022 18:05:55 +0300</pubDate>
-      <guid>http://localhost:1313/posts/everything-has-beauty-but-not-everyone-can-see/</guid>
-      <description>&lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.&lt;/p&gt;</description>
+      <title>Data capture - Rexona River</title>
+      <link>http://localhost:1313/projects/2021-04-39-rexona-river/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-rexona-river/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Rexona Riverde Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>It is never too late to be what you might have been</title>
-      <link>http://localhost:1313/posts/it-is-never-too-late-to-be-what-you-might-have-been/</link>
-      <pubDate>Sun, 16 Jan 2022 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/it-is-never-too-late-to-be-what-you-might-have-been/</guid>
-      <description>&lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.&lt;/p&gt;</description>
+      <title>Data capture - Skip recomendadores</title>
+      <link>http://localhost:1313/projects/2021-04-39-skip-recomendadores/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-skip-recomendadores/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Skip recomendadoresde Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Data capture - Tresemmé Master class</title>
+      <link>http://localhost:1313/projects/2021-04-39-tresemme-master-class/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-tresemme-master-class/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Tresemmé Master classde Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Data capture - Uniliver Food Solutions</title>
+      <link>http://localhost:1313/projects/2021-04-39-unilever-food-solutions/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-unilever-food-solutions/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Uniliver Food Solutionsde Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Data capture - Uniliver Protegé tu negocio</title>
+      <link>http://localhost:1313/projects/2021-04-39-unilever-chances-corto/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-unilever-chances-corto/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Uniliver Protegé tu negociode Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Landing Promo Unilever</title>
+      <link>http://localhost:1313/projects/2021-01-25-landing-promo-unilever/</link>
+      <pubDate>Tue, 14 Sep 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-01-25-landing-promo-unilever/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Landing creada para las promociones vigentes en Unilever. Allí se alojan y muestran todas los datacaptures que fui creando para diversas marcas conglomerados. Esta OnePage Landing sirve para poder catalogar las promociones que serán accesibles mediante promociones en TV, banners, anuncios en la calle y diversas redes sociales&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data capture - Uniliver Participá y ganá</title>
+      <link>http://localhost:1313/projects/2021-04-39-unilivver-gana/</link>
+      <pubDate>Wed, 14 Apr 2021 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-39-unilivver-gana/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Data capture para la marca Uniliver Participá y ganá de Unilever, trabajado junto mi equipo Ustudio (oliver) hicimos desde el UX/UI desarrollo en react y conexión con base de datos y API externa.&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mysql&lt;/li&gt;&#xA;&lt;li&gt;Conexión API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Landing Promo Unilever</title>
+      <link>http://localhost:1313/projects/2020-06-23-knorr-mes-de-la-sopa-solidaria/</link>
+      <pubDate>Sun, 14 Jun 2020 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2020-06-23-knorr-mes-de-la-sopa-solidaria/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Landing page (webapp) con un mapa interactivo con cada una de las provincias de Argentina donde se podía ver todos los comedores registrados que Knorr estaba ayudando en una época muy fuerte de pandemia. El mapa es un vector en SVG interactivo&#xA;Trabajo realizado junto con el equipo de Oliver Argentina (Ustudio).&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;NPM&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Mapa en SVG&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Yerbanova - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2021-08-14-yerbanova/</link>
+      <pubDate>Tue, 14 Aug 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-08-14-yerbanova/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Página de oficial de Yerbanova Argentina (mantenimiento de código, agregado de recetas y productos)&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;Wordpress&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Cica - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2021-07-14-cica/</link>
+      <pubDate>Sat, 14 Jul 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-07-14-cica/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Página de oficial de Cica Argentina (mantenimiento de código, agregado de recetas y productos)&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;Wordpress&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>El Genovese - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2019-08-14-elgenovese/</link>
+      <pubDate>Thu, 14 Jun 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2019-08-14-elgenovese/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Página de oficial de El Genovese Argentina (mantenimiento de código, agregado de recetas y productos)&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;Wordpress&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Gerbaundo Hermanos Web</title>
+      <link>http://localhost:1313/projects/2018-06-14-gerbaundo-web/</link>
+      <pubDate>Thu, 14 Jun 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2018-06-14-gerbaundo-web/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Página de ventas de tractores y maquinaria pesada para siembra.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;Wordpress&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Guillermo Marín - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2019-08-14-guillermomarin.jpg/</link>
+      <pubDate>Thu, 14 Jun 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2019-08-14-guillermomarin.jpg/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Página de oficial de Guillermo Marín Argentina (mantenimiento de código, agregado de recetas y productos)&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;Wordpress&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Hellmann&#39;s Selector de recetas - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2021-06-14-hellmanns-recetasfull/</link>
+      <pubDate>Thu, 14 Jun 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-06-14-hellmanns-recetasfull/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Webapp para la página oficial de Hellmann&amp;rsquo;s Selector de recetas Argentina (mantenimiento de código, agregado de recetas y productos). La web app genera una receta según&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;Wordpress&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Insanity - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2019-08-14-insanity/</link>
+      <pubDate>Thu, 14 Jun 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2019-08-14-insanity/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Diseño web de banner para evento de Insanity sounds la plata. Diseño gráfico de vectores de dibujos.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;Wordpress&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Maizena - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2021-04-14-maizena-web/</link>
+      <pubDate>Thu, 14 Jun 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2021-04-14-maizena-web/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Página de oficial de Maizena Argentina (mantenimiento de código, agregado de recetas y productos)&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;Wordpress&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Suave - Página Oficial Argentina</title>
+      <link>http://localhost:1313/projects/2018-06-14-suave-pagina/</link>
+      <pubDate>Thu, 14 Jun 2018 07:30:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/2018-06-14-suave-pagina/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Programación de página web, diseño UX/UI y desarrollo de página de e-commerce. Página de oficial de Suave Argentina (mantenimiento de código, agregado de recetas y productos)&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Acá dejo una lista&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;Javascript&lt;/li&gt;&#xA;&lt;li&gt;Wordpress&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi, my name is Fabian Gonzalez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90&amp;rsquo;s stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf twee thundercats ennui.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hi, my name is James Clayton. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90&amp;rsquo;s stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf twee thundercats ennui.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Elements</title>

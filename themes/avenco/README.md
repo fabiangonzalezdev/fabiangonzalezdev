@@ -1,49 +1,48 @@
-# Avenco - Creative Portfolio Theme for HUGO
+# ¡Hola! Soy Ingeniero de Software y Profesor:
 
-Avenco is a modern and minimal portfolio theme for Hugo. This theme was specially created to help show your work in a simple yet creative way. Also, the Avenco theme includes several basic and easily customizable sections such as Works, Testimonials, Blog, Contact and therefore will be a good choice for any freelancer, designer, or developer.
+<div align="right">
 
-* * *
+# Fabian Gonzalez
 
-### Demo
+</div>
 
-Check the theme in action [Live Demo](https://avenco-hugo.netlify.app/) |
-[Anvod Studio](https://themeforest.net/user/anvodstudio)
+<img width="400" height="auto" align="right" src="https://fabiangonzalez.dev/assets/img/fabiangonzalez.png">
 
-* * *
+### Ingeniero de Software | Desarrollador Web Full Stack | Especialista en Adobe Experience Manager (AEM)
 
-### Theme features
+---
 
-- No jQuery, only vanilla JS
-- 100% responsive design
-- Super fast performance ⚡⚡⚡
-- Clean and modern code
-- Optimized for mobile devices
-- Social sharing buttons
-- Post navigation
-- Scroll to top button
-- Syntax highlighting
-- Compatible with modern browsers
-- Medium style image zoom
-- Image lazy loading
-- Tags support
-- Custom logo support
-- Supports contact form (Formspree)
-- Supports MailChimp newsletter
-- Supports Disqus comments
-- Supports Google Analytics
-- Ionicons icons
-- Free Google Fonts
+Bienvenidos a mi repositorio. Soy Fabian Gonzalez, un apasionado ingeniero de software con experiencia en el desarrollo web full stack y especializado en Adobe Experience Manager (AEM). Tengo más de 5 años trabajando en proyectos complejos de desarrollo web, integraciones y optimización para clientes globales.
 
-* * *
 
-### Deployment
 
-To run the theme locally, navigate to the theme directory and run `hugo` to start building websites, then run `hugo server` or `hugo server --disableFastRender` to start the HUGO server.
+## 🚀 Sobre mí
 
-I would recommend checking the [Deployment Methods](https://gohugo.io/hosting-and-deployment/) page on HUGO website.
+- 🔧 **Lenguajes y tecnologías**: HTML, CSS, JavaScript, PHP, Java, ReactJS, NodeJS, AEM, MySQL, MongoDB, Git.
+- 🎯 **Frameworks**: ReactJS, NodeJS, SpringBoot.
+- 🔥 **Especialización**: Desarrollo en **AEM (Adobe Experience Manager)**, donde he trabajado en la creación de componentes personalizados, integración de APIs y optimización de plataformas digitales.
+- 🌐 **Experiencia en CMS**: Además de AEM, también tengo experiencia en WordPress, Drupal y otros CMS, manejando tanto front-end como back-end.
 
-* * *
+## 🌟 Proyectos Destacados
 
-### Documentation
+- **Desarrollo y optimización de plataformas web en AEM**: He trabajado en varios proyectos de AEM implementando soluciones de frontend y backend, personalizando componentes y mejorando la experiencia del usuario.
+- **E-commerce en WordPress**: Desarrollo de tiendas online completas, integrando pasarelas de pago y optimizando la velocidad del sitio.
+- **Sitios corporativos y micrositios**: Creación de sitios responsive y personalizados para diferentes clientes globales, utilizando tecnologías como ReactJS y NodeJS.
 
-Before using the Avenco theme, please read the attached documentation.
+## 💻 Visita mi sitio web
+
+Puedes ver más sobre mi trabajo y proyectos en mi [sitio web personal](https://fabiangonzalez.dev/).
+
+
+## 📫 Contáctame
+
+- **LinkedIn**: [Fabian Gonzalez](https://www.linkedin.com/in/fabiangonzalezdev/)
+- **Correo electrónico**: fabiangonzalezdev@gmail.com
+
+---
+
+Gracias por visitar mi perfil de GitHub. ¡No dudes en explorar mis repositorios y proyectos!
+
+<a href="https://www.youtube.com/@poligonwebs?sub_confirmation=1" target="_blank" rel="noopener">
+  <img align="center" src="https://fabiangonzalez.dev/assets/img/banneryoutube.png">
+</a>

@@ -1,0 +1,21 @@
+ 
+<!-- begin services -->
+{{ if .Site.Params.services.enable }}
+<section class="services">
+  <div class="container">
+    <h2 class="services__title">{{ .Site.Params.services.services__title | safeHTML }}</h2>
+    <p class="services__description">{{ .Site.Params.services.services__description | markdownify }}</p>
+    
+    <div class="services__grid">
+      {{ range .Site.Params.services.services_list }}
+      <div class="services__card">
+        <img class="services__icon lazy" data-src="{{ .icon }}" alt="{{ .name }} icon">
+        <h3 class="services__name">{{ .name }}</h3>
+        <p class="services__text">{{ .description }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- end services -->

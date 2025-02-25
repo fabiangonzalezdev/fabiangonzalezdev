@@ -1,4 +1,4 @@
 ---
 title: My works
-description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+description: Web development, Graphic design, WebApps creation. My work for different brands and companies
 ---

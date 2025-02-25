@@ -3,7 +3,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Avenco"
-googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
+googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
@@ -19,13 +19,13 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 
 
 [params]
-  logo = "" # You can add own logo. For example "/images/logo.png".
-  description = "Avenco - Creative Portfolio Theme for HUGO"
+  logo = "/images/logo.png" # You can add own logo. For example "/images/logo.png".
+  description = "Software Engineer expert in AEM, HTML, CSS, JS, PHP, MySQL, ReactJS. "
 
 
 [params.global.image]
   enable = true
-  cover__image = 'https://via.placeholder.com/1920x600' # Add global cover image (This field adds a background to the top and bottom of the site.)
+  cover__image = '/images/background.jpg' # Add global cover image (This field adds a background to the top and bottom of the site.)
 
 #-------------------------------
 # Main Menu
@@ -49,32 +49,70 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
     weight = 3
     hasChildren = true
 
-      [[menu.main]]
-      parent = "Pages"
+  [[menu.main]]
+    #  parent = "Pages"
       name = "About"
       url = "/about/"
-      weight = 1
+      weight = 5
 
-      [[menu.main]]
-      parent = "Pages"
-      name = "Elements"
-      url = "/elements/"
-      weight = 2
+  #    [[menu.main]]
+   #   parent = "Pages"
+    #  name = "Elements"
+     # url = "/elements/"
+      # weight = 2
 
   # Call to action button
   [params.menu.button]
-    cta__button__text = "Get in touch"
+    cta__button__text = "Send me a Whatsapp"
 
 
   #-------------------------------
   # Author Settings
   [params.author]
     author__name = "Fabian Gonzalez"
-    author__title = "👋 Soy Fabian Gonzalez"
-    author__bio = "Ingeniero de Software experto en AEM, HTML, CSS, JS, PHP, MySQL, ReactJS. Apasionado por la tecnología y el desarrollo web 🤓"
+    author__title = "👋 Hello I’m Fabian Gonzalez"
+    author__bio = "Software Engineer expert in AEM, HTML, CSS, JS, PHP, MySQL, ReactJS. Passionate about technology and web development 🤓."
     author__image = "https://via.placeholder.com/600x600"
     author__avatar = "https://via.placeholder.com/200x200"
-    button__text = "Mira mis trabajos"
+    button__text = "Send me a Whatsapp"
+
+
+#-------------------------------
+# Services Section
+[params.services]
+  enable = true
+  services__title = "My <span class='text-span'>Services</span>"
+  services__description = "I create personalized digital solutions that drive business growth. From web development and ecommerce to mobile applications and SEO optimization, my expertise in technologies such as AEM, ReactJS, Java, and AI integration ensures high-impact results."
+
+  [[params.services.services_list]]
+    name = "Web Development"
+    description = "Modern, fast, and SEO-optimized websites focused on user experience."
+    icon = "/assets/icons/web-development.svg"
+
+  [[params.services.services_list]]
+    name = "Ecommerce Development"
+    description = "Scalable and secure e-commerce platforms designed to maximize sales and conversion."
+    icon = "/assets/icons/ecommerce.svg"
+
+  [[params.services.services_list]]
+    name = "AEM Development"
+    description = "Migration, optimization, and development of solutions in Adobe Experience Manager (AEM) for efficient content management."
+    icon = "/assets/icons/aem.svg"
+
+  [[params.services.services_list]]
+    name = "Mobile App Development"
+    description = "Intuitive and functional mobile applications designed to enhance user experience."
+    icon = "/assets/icons/mobile-app.svg"
+
+  [[params.services.services_list]]
+    name = "SEO Optimization"
+    description = "Website optimization for search engines, increasing visibility and organic traffic."
+    icon = "/assets/icons/seo.svg"
+
+  [[params.services.services_list]]
+    name = "AI Integration"
+    description = "Implementation of artificial intelligence solutions to automate processes and improve decision-making."
+    icon = "/assets/icons/ai.svg"
 
 
   #-------------------------------
@@ -82,39 +120,33 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
   [params.projects]
     enable = true
     projects__title= "Latest <span class='text-span'>Works</span>" # Add a 'text-span' class to highlight text.
-    projects__description= "I shows only the best websites and portfolios built completely with passion, simplicity & creativity!"
+    projects__description= "My latest web development and design work built completely with passion, simplicity & creativity!"
 
 
   #-------------------------------
   # Testimonials Section
   [params.testimonials]
     enable = true
-    testimonial__title = "My Happy <span class='text-span'>Clients</span>" # Add a 'text-span' class to highlight text.
-    testimonial__description = ""
+    testimonial__title = "Work <span class='text-span'>Testimonials</span>" # Add a 'text-span' class to highlight text.
+    testimonial__description = "Testimonials from companies and people I worked for, web development and consultancies"
 
   [[params.testimonial_item]]
-    name = "Zaire Baptista"
+    name = " Jorge Rannin"
     image = "https://via.placeholder.com/250x250"
-    designation = "Traveler"
-    content = "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    designation = "Consultant Marketing Specialist"
+    content = "Fabian was a pleasure to work with, he managed and created AEM Cloud consultancies for the Colgate and Palmolive team."
 
   [[params.testimonial_item]]
-    name = "Ann Philips"
+    name = "Luis Luchessi"
     image = "https://via.placeholder.com/250x250"
-    designation = "Designer"
-    content = "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    designation = "Creator of digital properties"
+    content = "Working with Fabian was an incredible experience for our digital platform, he is an exceptional professional who created a modern ecommerce system for us."
 
   [[params.testimonial_item]]
     name = "Roger Bergson"
     image = "https://via.placeholder.com/250x250"
     designation = "CEO, Founder"
-    content = "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
-
-  [[params.testimonial_item]]
-    name = "Julie Arnold"
-    image = "https://via.placeholder.com/250x250"
-    designation = "Full stack developer"
-    content = "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    content = "Fabian met all deadlines and delivered a flawless multilingual website. His attention to detail and professionalism are second to none."
 
 
   #-------------------------------
@@ -129,9 +161,9 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
   # Contact Settings
   [params.contact]
     enable = true
-    contact__email = "your@email.com" # Add your form_id
-    contact__title = "<span class='text-span'>Get</span> in touch" # Add a title to your form
-    contact__description = "Avenco comes with a built-in contact form." # Add a description to your form
+    contact__email = "fabiangonzalezdev@gmail.com" # Add your form_id
+    contact__title = "<span class='text-span'>Send</span> me a whatsapp" # Add a title to your form
+    contact__description = "Feel free to write me whatever you want and I will answer you quickly on whatsapp." # Add a description to your form
 
     # NOTE
     # Avenco comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
@@ -141,15 +173,15 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
   # Newsletter Settings
   [params.mailchimp]
     enable = true
-    mailchimp__title = "<span class='text-span'>Join</span> my mailing list" # Add your title
-    mailchimp__text = "Get the best inspiration and, cool stuff about design!" # Add descriptions to the form. If you want to use more than one sentence, be sure to separate them with a comma.
+    mailchimp__title = "Contact me via <span class='text-span'>Whatsapp</span> " # Add your title
+    mailchimp__text = "I will give you an, share, uplift" # Add descriptions to the form. If you want to use more than one sentence, be sure to separate them with a comma.
     mailchimp__identifier = "gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp" # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
-    mailchimp__button__text = "Subscribe" # Add your button text
+    mailchimp__button__text = "Send me a Whatsapp" # Add your button text
 
   #-------------------------------
   # Comment Section (Disqus)
   [params.disqus]
-    enable = true
+    enable = false
     disqusShortname = "anvodstudio-demo" # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
@@ -158,33 +190,33 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
   # Social Links
   [[params.social]]
     icon = "ion-logo-twitter"
-    name = "Twitter"
-    link = "https://twitter.com"
+    name = "X"
+    link = "https://x.com/fabiansatoshi"
 
-  [[params.social]]
-    icon = "ion-logo-github"
-    name = "Github"
-    link = "https://github.com"
+    [[params.social]]
+       icon = "ion-logo-github"
+       name = "Github"
+       link = "https://github.com/fabiangonzalezdev"
 
-  [[params.social]]
-    icon = "ion-logo-pinterest"
-    name = "Pinterest"
-    link = "https://pinterest.com"
+    # [[params.social]]
+     #  icon = "ion-logo-pinterest"
+     #  name = "Pinterest"
+    #   link = "https://pinterest.com"
 
   [[params.social]]
     icon = "ion-logo-codepen"
     name = "Codepen"
-    link = "https://codepen.io"
+    link = "https://codepen.io/fabiangonzalezdev"
 
-  [[params.social]]
-    icon = "ion-logo-vimeo"
-    name = "Vimeo"
-    link = "https://vimeo.com"
+   # [[params.social]]
+    #  icon = "ion-logo-vimeo"
+   #   name = "Vimeo"
+    #  link = "https://vimeo.com"
 
   [[params.social]]
     icon = "ion-logo-youtube"
     name = "Youtube"
-    link = "https://youtube.com"
+    link = "https://www.youtube.com/@fabiangonzalezdev"
 
   # Example of adding a new link to the footer section:
   # [[params.social]]

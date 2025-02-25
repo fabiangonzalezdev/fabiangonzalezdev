@@ -1,4 +1,4 @@
 ---
 title: Blog
-description: Avenco blog features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
+description: Tutorials of programming, Web development Graphic design, AI, and technology 🤓 .
 ---
