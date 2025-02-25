@@ -30,11 +30,11 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
 #-------------------------------
 # Main Menu
 [menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
+ # [[menu.main]]
+  #  identifier = "home"
+  # name = "Home"
+  # url = "/"
+  # weight = 1
 
   [[menu.main]]
     identifier = "projects"
@@ -63,8 +63,10 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
 
   # Call to action button
   [params.menu.button]
-    cta__button__text = "Send me a Whatsapp"
+    cta__button__text = "Courses"
 
+ [params.menu.buttondos]
+    cta__button__textdos = "Send me a Whatsapp"
 
   #-------------------------------
   # Author Settings
