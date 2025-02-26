@@ -176,7 +176,7 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
   [params.mailchimp]
     enable = true
     mailchimp__title = "Contact me via <span class='text-span'>Whatsapp</span> " # Add your title
-    mailchimp__text = "I will give you an, share, uplift" # Add descriptions to the form. If you want to use more than one sentence, be sure to separate them with a comma.
+    mailchimp__text = "To talk about your project, Works, Courses, IT Consulting" # Add descriptions to the form. If you want to use more than one sentence, be sure to separate them with a comma.
     mailchimp__identifier = "gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp" # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
     mailchimp__button__text = "Send me a Whatsapp" # Add your button text
 

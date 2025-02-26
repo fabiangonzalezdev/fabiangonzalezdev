@@ -75,7 +75,7 @@
   cursor: pointer;
   overflow: hidden;
   color: $white;
-  background: linear-gradient(90deg, #25D366 0%, #128C7E 167%);
+  background: linear-gradient(90deg, #25D366 0%, #128C7E 167%) !important;
   transition: all .25s ease;
 
   &:hover {

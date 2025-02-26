@@ -9,7 +9,7 @@
             <h1 class="author__name">{{ .Site.Params.author.author__title | safeHTML }}</h1>
             <p class="author__bio">{{ .Site.Params.author.author__bio | markdownify }}</p>
             {{ if .Site.Params.projects.enable }}
-            <a class="author__btn-whatsapp  " href="https://api.whatsapp.com/send?phone=5491128973151">
+            <a class="author__btn-whatsapp" href="https://api.whatsapp.com/send?phone=5491128973151">
              {{ .Site.Params.author.button__text }} <span class="bi bi-whatsapp whatsapp-icon"></span>
             </a>
 
