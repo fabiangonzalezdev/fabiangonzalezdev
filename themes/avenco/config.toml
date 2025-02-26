@@ -134,19 +134,19 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
 
   [[params.testimonial_item]]
     name = " Jorge Rannin"
-    image = "/images/250x250_testimonials.png"
+    image = "/images/250x250_testimonials_georgie.png"
     designation = "Consultant Marketing Specialist"
     content = "Fabian was a pleasure to work with, he managed and created AEM Cloud consultancies for the Colgate and Palmolive team."
 
   [[params.testimonial_item]]
     name = "Luis Luchessi"
-    image = "/images/250x250_testimonials.png"
+    image = "/images/250x250_testimonials_luis.png"
     designation = "Creator of digital properties"
     content = "Working with Fabian was an incredible experience for our digital platform, he is an exceptional professional who created a modern ecommerce system for us."
 
   [[params.testimonial_item]]
     name = "Roger Bergson"
-    image = "/images/250x250_testimonials.png"
+    image = "/images/250x250_testimonials_roger.png"
     designation = "CEO, Founder"
     content = "Fabian met all deadlines and delivered a flawless multilingual website. His attention to detail and professionalism are second to none."
 
