@@ -8,11 +8,11 @@
 
         <div class="section__info">
           <div class="section__head">
-            <h2 class="section__title">{{ .Site.Params.blog.blog__title | safeHTML }}</h2>
-            <a class="section__link" href="/posts">View all <i class="ion ion-md-arrow-forward"></i></a>
+            <h2 class="section__title">{{ .Site.Language.Params.blog.blog__title | safeHTML }}</h2>
+            <a class="section__link" href="/posts">{{ .Site.Language.Params.view_all }} <i class="ion ion-md-arrow-forward"></i></a>
           </div>
-          {{ if .Site.Params.blog.blog__description }}
-            <p class="section__description">{{ .Site.Params.blog.blog__description }}</p>
+          {{ if .Site.Language.Params.blog.blog__description }}
+            <p class="section__description">{{ .Site.Language.Params.blog.blog__description }}</p>
           {{ end }}
         </div>
 
