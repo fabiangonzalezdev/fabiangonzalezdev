@@ -1,4 +1,40 @@
-baseURL = 'https://fabiangonzalez.dev/'
-languageCode = 'en-us'
-title = 'FabianGonzalez'
+baseURL = "https://fabiangonzalez.dev"
+title = "Fabian Gonzalez"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 theme = "avenco"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-us"
+    contentDir = "content/en"
+    weight = 1
+    [languages.en.params]
+      description = "Software Engineer expert in AEM, HTML, CSS, JS, PHP, MySQL, ReactJS."
+    [[languages.en.menu.main]]
+      identifier = "projects"
+      name = "Projects"
+      url = "/projects/"
+      weight = 2
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/about/"
+      weight = 5
+
+  [languages.es]
+    languageName = "Español"
+    languageCode = "es"
+    contentDir = "content/es"
+    weight = 2
+    [languages.es.params]
+      description = "Ingeniero de software experto en AEM, HTML, CSS, JS, PHP, MySQL, ReactJS."
+    [[languages.es.menu.main]]
+      identifier = "projects"
+      name = "Proyectos"
+      url = "/es/projects/"
+      weight = 2
+    [[languages.es.menu.main]]
+      name = "Sobre mí"
+      url = "/es/about/"
+      weight = 5

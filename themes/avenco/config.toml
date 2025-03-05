@@ -21,6 +21,7 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
 [params]
   logo = "/images/logo.png" # You can add own logo. For example "/images/logo.png".
   description = "Software Engineer expert in AEM, HTML, CSS, JS, PHP, MySQL, ReactJS. "
+  enableSearch = true
 
 
 [params.global.image]
@@ -42,12 +43,12 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
     url = "/projects/"
     weight = 2
 
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-    weight = 3
-    hasChildren = true
+#  [[menu.main]]
+#    identifier = "posts"
+#    name = "Posts"
+#    url = "/posts/"
+#    weight = 3
+#    hasChildren = true
 
   [[menu.main]]
     #  parent = "Pages"
@@ -72,12 +73,13 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
   # Author Settings
   [params.author]
     author__name = "Fabian Gonzalez"
-    author__title = "👋 Hello I’m Fabian Gonzalez"
+    author__title = "👋 Hello I'm Fabian Gonzalez"
     author__bio = "Software Engineer expert in AEM, HTML, CSS, JS, PHP, MySQL, ReactJS. Passionate about technology and web development 🤓."
     author__image = "/images/600x600.png"
     author__avatar = "/images/200x200.png"
     button__text = "Send me a Whatsapp"
     button__textTwo = "See my projects"
+
 
 
 #-------------------------------
@@ -125,6 +127,12 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
     projects__description= "My latest web development and design work built completely with passion, simplicity & creativity!"
 
 
+  [languages.es.params.projects]
+    enable = true
+    projects__title= "Últimos <span class='text-span'>Trabajos</span>" # Agrega una clase 'text-span' para resaltar el texto.
+    projects__description= "Mis últimos trabajos de desarrollo web y diseño, construidos completamente con pasión, simplicidad y creatividad!"
+
+
   #-------------------------------
   # Testimonials Section
   [params.testimonials]
@@ -154,7 +162,7 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
   #-------------------------------
   # Blog Section
   [params.blog]
-    enable = true
+    enable = false
     blog__title = "Recent <span class='text-span'>Blog</span> Posts" # Add a 'text-span' class to highlight text.
     blog__description = ""
 
@@ -239,3 +247,56 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
   codeFences = true
   guessSyntax = true
   noClasses = false
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-us"
+    contentDir = "content/en"
+    weight = 1
+    [languages.en.params]
+      description = "Software Engineer expert in AEM, HTML, CSS, JS, PHP, MySQL, ReactJS."
+    [[languages.en.menu.main]]
+      identifier = "projects"
+      name = "Projects"
+      url = "/projects/"
+      weight = 2
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/about/"
+      weight = 5
+    [[languages.en.menu.main]]
+      name = "Services"
+      url = "/services/"
+      weight = 6
+
+  [languages.es]
+    languageName = "Español"
+    languageCode = "es"
+    contentDir = "content/es"
+    weight = 2
+    [languages.es.params]
+      description = "Ingeniero de software experto en AEM, HTML, CSS, JS, PHP, MySQL, ReactJS."
+    [[languages.es.menu.main]]
+      identifier = "projects"
+      name = "Proyectos"
+      url = "/es/projects/"
+      weight = 2
+    [[languages.es.menu.main]]
+      name = "Sobre mí"
+      url = "/es/about/"
+      weight = 5
+    [[languages.es.menu.main]]
+      name = "Servicios"
+      url = "/es/services/"
+      weight = 6
+
+  [languages.es.params.author]
+    author__name = "Fabian Gonzalez"
+    author__title = "👋 Hola, soy Fabian Gonzalez"
+    author__bio = "Ingeniero de software experto en AEM, HTML, CSS, JS, PHP, MySQL, ReactJS. Apasionado por la tecnología y el desarrollo web 🤓."
+    author__image = "/images/600x600.png"
+    author__avatar = "/images/200x200.png"
+    button__text = "Envíame un Whatsapp"
+    button__textTwo = "Ver mis proyectos"
+
