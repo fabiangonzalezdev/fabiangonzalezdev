@@ -35,7 +35,8 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
   #  identifier = "home"
   # name = "Home"
   # url = "/"
-  # weight = 1
+  # weight = 1
+
 
   [[menu.main]]
     identifier = "projects"
@@ -64,7 +65,11 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
 
   # Call to action button
   [params.menu.button]
-    cta__button__text = "Send me a Whatsapp "
+  cta__button__text = "Send me a Whatsapp"
+  cta__button__url = "https://api.whatsapp.com/send?phone=5491128973151"
+
+
+
 
  [params.menu.buttondos]
     cta__button__textdos = "Courses"
@@ -162,7 +167,7 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
   #-------------------------------
   # Blog Section
   [params.blog]
-    enable = false
+    enable = true
     blog__title = "Recent <span class='text-span'>Blog</span> Posts" # Add a 'text-span' class to highlight text.
     blog__description = ""
 
@@ -270,6 +275,11 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
       url = "/services/"
       weight = 6
 
+
+        [languages.en.params.menu.button]
+    cta__button__text = "Send me a Whatsapp"
+    cta__button__url = "https://api.whatsapp.com/send?phone=5491128973151"
+
   [languages.es]
     languageName = "Español"
     languageCode = "es"
@@ -291,6 +301,12 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
       url = "/es/services/"
       weight = 6
 
+  
+  [languages.es.params.menu.button]
+    cta__button__text = "Envíame un Whatsapp"
+    cta__button__url = "https://api.whatsapp.com/send?phone=5491128973151"
+
+
   [languages.es.params.author]
     author__name = "Fabian Gonzalez"
     author__title = "👋 Hola, soy Fabian Gonzalez"
@@ -300,3 +316,86 @@ googleAnalytics = "G-4DGKG29WJM" # Add your identifier. For example UA-99631805-
     button__text = "Envíame un Whatsapp"
     button__textTwo = "Ver mis proyectos"
 
+  [languages.es.params.services]
+    enable = true
+    services__title = "Mis <span class='text-span'>Servicios</span>"
+    services__description = "Creo soluciones digitales personalizadas que impulsan el crecimiento empresarial. Desde desarrollo web y comercio electrónico hasta aplicaciones móviles y optimización SEO, mi experiencia en tecnologías como AEM, ReactJS, Java e integración de IA garantiza resultados de alto impacto."
+
+    [[languages.es.params.services.services_list]]
+      name = "Desarrollo Web"
+      description = "Sitios web modernos, rápidos y optimizados para SEO enfocados en la experiencia del usuario."
+      icon = "bi-code-slash"
+
+    [[languages.es.params.services.services_list]]
+      name = "Desarrollo de Ecommerce"
+      description = "Plataformas de comercio electrónico escalables y seguras diseñadas para maximizar ventas y conversión."
+      icon = "bi-cart"
+
+    [[languages.es.params.services.services_list]]
+      name = "Desarrollo AEM"
+      description = "Migración, optimización y desarrollo de soluciones en Adobe Experience Manager (AEM) para una gestión eficiente de contenido."
+      icon = "bi-layers"
+
+    [[languages.es.params.services.services_list]]
+      name = "Desarrollo de Apps Móviles"
+      description = "Aplicaciones móviles intuitivas y funcionales diseñadas para mejorar la experiencia del usuario."
+      icon = "bi-phone"
+
+    [[languages.es.params.services.services_list]]
+      name = "Optimización SEO"
+      description = "Optimización de sitios web para motores de búsqueda, aumentando la visibilidad y el tráfico orgánico."
+      icon = "bi-graph-up"
+
+    [[languages.es.params.services.services_list]]
+      name = "Integración de IA"
+      description = "Implementación de soluciones de inteligencia artificial para automatizar procesos y mejorar la toma de decisiones."
+      icon = "bi-cpu"
+
+  [languages.es.params.testimonials]
+    enable = true
+    testimonial__title = "Referencias de <span class='text-span'>Trabajo</span>"
+    testimonial__description = "Testimonios de empresas y personas para las que he trabajado, desarrollo web y consultorías"
+
+  [languages.es.params.contact]
+    enable = true
+    contact__email = "fabiangonzalezdev@gmail.com"
+    contact__title = "<span class='text-span'>Envíame</span> un whatsapp"
+    contact__description = "Siéntete libre de escribirme lo que quieras y te responderé rápidamente por whatsapp."
+
+  [languages.es.params.mailchimp]
+    enable = true
+    mailchimp__title = "Contáctame vía <span class='text-span'>Whatsapp</span>"
+    mailchimp__text = "Para hablar sobre tu proyecto, trabajos, cursos, consultoría IT"
+    mailchimp__identifier = "gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp"
+    mailchimp__button__text = "Envíame un Whatsapp"
+
+# Blog en Español
+[languages.es.params.blog]
+  enable = true
+  blog__title = "Publicaciones recientes del <span class='text-span'>Blog</span>"
+  blog__description = "Mis últimas publicaciones sobre tecnología y desarrollo web."
+
+# Proyectos en Inglés
+[languages.en.params.projects]
+  enable = true
+  projects__title = "Latest <span class='text-span'>Works</span>"
+  projects__description = "My latest web development and design work built completely with passion, simplicity & creativity!"
+
+# Testimonials en Español
+[[languages.es.params.testimonial_item]]
+  name = "Jorge Rannin"
+  image = "/images/250x250_testimonials_georgie.png"
+  designation = "Consultor especialista en marketing"
+  content = "Fue un placer trabajar con Fabian, manejó y creó consultorías AEM Cloud para el equipo de Colgate y Palmolive."
+
+[[languages.es.params.testimonial_item]]
+  name = "Luis Luchessi"
+  image = "/images/250x250_testimonials_luis.png"
+  designation = "Creador de propiedades digitales"
+  content = "Trabajar con Fabian fue una experiencia increíble para nuestra plataforma digital, es un profesional excepcional que creó para nosotros un moderno sistema de ecommerce."
+
+[[languages.es.params.testimonial_item]]
+  name = "Roger Bergson"
+  image = "/images/250x250_testimonials_roger.png"
+  designation = "CEO, Fundador"
+  content = "Fabian cumplió todos los plazos y entregó un sitio multilingüe impecable. Su atención al detalle y profesionalismo son incomparables."
