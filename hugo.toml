@@ -22,6 +22,12 @@ theme = "avenco"
       url = "/about/"
       weight = 5
 
+    [[languages.en.menu.main]]
+      name = "Posts"
+      url = "/posts/"
+      weight = 5
+
+
   [languages.es]
     languageName = "Español"
     languageCode = "es"
@@ -37,4 +43,10 @@ theme = "avenco"
     [[languages.es.menu.main]]
       name = "Sobre mí"
       url = "/es/about/"
+      weight = 5
+
+
+    [[languages.es.menu.main]]
+      name = "Posts"
+      url = "/posts/"
       weight = 5
