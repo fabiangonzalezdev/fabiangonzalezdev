@@ -1,4 +1,4 @@
 ---
 title: Blog
-description: Tutorials of programming, Web development Graphic design, AI, and technology 🤓 .
+description: Tutoriales de programación, desarrollo web Diseño gráfico, IA y tecnología 🤓 .
 ---

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Fabian Gonzalez</title>
+    <title>Blog on FabianGonzalezDev</title>
     <link>http://localhost:1313/es/posts/</link>
-    <description>Recent content in Blog on Fabian Gonzalez</description>
+    <description>Recent content in Blog on FabianGonzalezDev</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
