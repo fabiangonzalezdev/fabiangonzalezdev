@@ -1,0 +1,25 @@
+[
+    {
+      "slug": "juego",
+      "title": "Mini juego de naves",
+      "thumbnail": "/images/juego.png",
+      "description": "Un minijuego con Canvas donde una nave rebota entre paredes. Hecho con JavaScript puro.",
+      "tags": ["JS", "Canvas", "Game"]
+    },
+    {
+      "slug": "portfolio-site",
+      "title": "Portfolio para diseñador UX",
+      "thumbnail": "/images/portfolio.png",
+      "description": "Un minijuego con Canvas donde una nave rebota entre paredes. Hecho con JavaScript puro.",
+      "tags": ["React", "UI/UX", "SEO"]
+    },
+    {
+      "slug": "tienda-ecommerce",
+      "title": "Tienda eCommerce",
+      "thumbnail": "/images/tienda.png",
+      "description": "Un minijuego con Canvas donde una nave rebota entre paredes. Hecho con JavaScript puro.",
+      "tags": ["React", "Node", "E-commerce"]
+    }
+    
+  ]
+  
