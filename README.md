@@ -1,46 +1,224 @@
-# Getting Started with Create React App
+### Hola todos 👋
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- 😄 Soy FabianSato Ingeniero de Software. 
+Trabajo actualmente en DEPT como ingeniero de software en AEM.
 
-## Available Scripts
+En estos repositorios junto con mi web y youtube trataré de subir mis trabajos y conocimiento en el desarrollo web.
 
-In the project directory, you can run:
+Este es el repositorio de mi página principal desarrollada en bootstrap con todos mis trabajos y conocimiento.
 
-### `npm start`
+# **Programación**
+### 🐍 Python
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img src="https://fabiansato.github.io/logos/python.png" alt="alt text" width="200"/>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[Cheatsheet Python](https://github.com/fabiansato/python-cheatsheet "Cheatsheet Python por fabiansato")
 
-### `npm test`
+[Ejercicios Python](https://github.com/fabiansato/Python-Ejercicios "Ejercicios Python por fabiansato")
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### C
+<img src="https://fabiansato.github.io/logos/c.png" alt="Programacion en C - Fabian Sato" width="200"/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[Cheatsheet C](https://github.com/fabiansato/C-Cheatsheet "Cheatsheet C por fabiansato")
 
-### `npm run eject`
+[Ejercicios C](https://github.com/fabiansato/c-ejercicios "Ejercicios C por fabiansato")
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### C++
+<img src="https://fabiansato.github.io/logos/cpp.png" alt="Programacion en C++ - Fabian Sato" width="200"/>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[Cheatsheet C++](https://github.com/fabiansato/cpp-cheatsheet "Cheatsheet C++ por fabiansato")
 
-## Learn More
+[Ejercicios C++](https://github.com/fabiansato/cpp-ejercicios "Ejercicios C++ por fabiansato")
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Java
+<img src="https://fabiansato.github.io/logos/java.png" alt="Programación en Java" width="200"/>
+
+[Cheatsheet JAVA](https://github.com/fabiansato/java-cheatsheet "Cheatsheet JAVA por fabiansato")
+
+[Ejercicios JAVA](https://github.com/fabiansato/java-ejercicios "Ejercicios JAVA por fabiansato")
+
+
+### 💻 Javascript
+
+<img src="https://fabiansato.github.io/logos/javascript.png" alt="Programación en Java" width="200"/>
+
+[Cheatsheet Javascript](https://github.com/fabiansato/javascript-cheatsheet "Cheatsheet Javascript por fabiansato")
+
+[Ejercicios Javascript](https://github.com/fabiansato/javascript-ejercicios "Ejercicios Javascript por fabiansato")
+
+
+### 💻 PHP
+<img src="https://fabiansato.github.io/logos/php.png" alt="alt text" width="200"/>
+
+[Cheatsheet PHP](https://github.com/fabiansato/php-cheatsheet "Cheatsheet PHP por fabiansato")
+
+[Ejercicios PHP](https://github.com/fabiansato/php-ejercicios "Ejercicios PHP por fabiansato")
+
+
+# **Programación web**
+
+### 💻 HTML
+<img src="https://fabiansato.github.io/logos/html5.png" alt="alt text" width="200"/>
+
+
+[Cheatsheet HTML5](https://github.com/fabiansato/html5-cheatsheet "Cheatsheet de HTML5 por fabiansato")
+
+[Ejercicios HTML5](https://github.com/fabiansato/javascript-ejercicios "Ejercicios de HTML5 por fabiansato")
+
+[Codigos Utiles HTML5](https://github.com/fabiansato/html5-coolcodes "Códigos útiles de HTML5 por fabiansato")
+
+(adicional)
+HTML 5 con etiquetas semánticas:
+[Etiquetas_semanticas_HTML5](https://github.com/fabiansato/html-etiquetas-semanticas "Html con etiquetas semanticas agregadas de HTML5 por fabiansato")
+HTML 5 estructura web:
+[Estructura_web_HTML5](https://github.com/fabiansato/html-estructuraweb "Estructura basica web para trabajar con HTML5 por fabiansato")
+
+
+### 💻 CSS
+
+<img src="https://fabiansato.github.io/logos/css3.png" alt="alt text" width="200"/>
+
+
+#### BOOTSTRAP
+<img src="https://fabiansato.github.io/logos/bootstrap.png" alt="Programacion en C++ - Fabian Sato" width="200"/>
+
+#### SASS
+<img src="https://fabiansato.github.io/logos/sass.png" alt="Programacion en C++ - Fabian Sato" width="200"/>
+
+
+
+### REACTJS
+
+<img src="https://fabiansato.github.io/logos/reactjs.png" alt="alt text" width="200"/>
+
+[Cheatsheet ReactJS](https://github.com/fabiansato/reactjs-cheatsheet/ "Cheatsheet ReactJS por fabiansato")
+
+[Ejercicios ReactJS](https://github.com/fabiansato/reactjs-ejercicios/ "Ejercicios ReactJS por fabiansato")
+
+
+
+
+### Markdown
+
+<img src="https://fabiansato.github.io/logos/markdown.png" alt="alt text" width="200"/>
+
+
+[Cheatsheet Markdown](https://github.com/fabiansato/Markdown-cheatsheet "Markdown Cheatsheet")
+
+
+
+# **Programación web del lado del servidor**
+
+
+### 💻 NodeJS
+<img src="https://fabiansato.github.io/logos/nodejs.png" alt="alt text" width="200"/>
+
+[Cheatsheet NodeJS](https://github.com/fabiansato/nodeJS-cheatsheet "Cheatsheet de NodeJS por FabianSato")
+
+[Wiki NodeJS](https://github.com/fabiansato/nodeJS-cheatsheet/wiki "Wiki completo de NodeJS por FabianSato")
+
+[Ejercicios de NodeJS](https://github.com/fabiansato/nodejs-ejercicios "Ejercicios NodeJS por FabianSato")
+
+### 💻 Npm
+<img src="https://fabiansato.github.io/logos/npm.png" alt="alt text" width="200"/>
+
+
+
+### 💻 MYSQL
+<img src="https://fabiansato.github.io/logos/mysql.png" alt="alt text" width="200"/>
+
+### 💻 PHPMYADMIN
+<img src="https://fabiansato.github.io/logos/phpmyadmin.png" alt="alt text" width="200"/>
+
+## 💻 **TERMINAL**
+### Terminal
+<img src="https://fabiansato.github.io/logos/terminal.png" alt="Programación en Batch" width="200"/>
+
+[Cheatsheet Terminal Linux ](https://github.com/fabiansato/linux-terminal-cheatsheet/ "Cheatsheet Terminal Linux por fabiansato")
+
+
+### Batch
+
+<img src="https://fabiansato.github.io/logos/batch.png" alt="Programación en Batch" width="200"/>
+
+
+
+
+# **Modelos de programación**
+## 💻 **Pseudocódigo**
+
+## Pseint
+<img src="https://fabiansato.github.io/logos/pseint-logo.png" alt="alt text" width="200"/>
+
+##Programacion Estructural
+
+##Programacion orientada a objetos (POO)
+
+##Programacion Modular
+
+##Programacion asíncrona
+
+# **Matematicas**
+###Introduccion a la matematica
+
+
+# **Electrónica**
+###Arduino
+
+<img src="https://fabiansato.github.io/logos/arduino.png" alt="alt text" width="200"/>
+
+
+# **Gestores de versiones**
+## GIT
+
+<img src="https://fabiansato.github.io/logos/git.png" alt="alt text" width="200"/>
+
+[Cheatsheet GIT](https://github.com/fabiansato/GIT-Cheatsheet "Cheatsheet GIT por fabiansato")
+
+[Cheatsheet GIT](https://github.com/fabiansato/GIT-Cheatsheet "Cheatsheet GIT por fabiansat")
+
+## GITHUB
+
+<img src="https://fabiansato.github.io/logos/github.png" alt="alt text" width="200"/>
+
+## BITBUCKET
+
+<img src="https://fabiansato.github.io/logos/bitbucket.png" alt="Bitbucket" width="200"/>
+                                                                                              
+# **Utilitarios**
+### VSCODE
+[Cheatsheet vscode](https://github.com/fabiansato/VScode-Cheatsheet "Cheatsheet VSCODE por fabiansato")
+
+# **Diseño gráfico**
+## Adobe Illustrator
+<img src="https://fabiansato.github.io/logos/adobeillustrator.png" alt="alt text" width="200"/>
+
+## Adobe Photoshop
+<img src="https://fabiansato.github.io/logos/adobephotohshop.png" alt="alt text" width="200"/>
+
+## **Un Carpincho para descontracturar**
+<img src="https://fabiansato.github.io/logos/capibara.png" alt="Capibara- Fabian Sato" width="200"/>
+
+La menera de estudiar y trabajar será la siguiente:
+- 📓 Anotar cursos en one note ...
+- 📖 Anotar curso + tareas en github ...
+- 📝 Anotar Cheatsheet en github ...
+- 📺 grabar curso para youtube ...
+- 📰 actualizar webpage por FTP con este contenido () y. ...
+- 📲 redes sociales con contenido nuevo. ...
+
+ ✨ _Programación_ ✨ 
+ - C Ejercicios 
+ - C Cheatsheet 
+ - Java Ejercicios 
+ - Java cheatsheet 
+ - Python Ejercicios
+ - Python Cheatsheet
+ -
