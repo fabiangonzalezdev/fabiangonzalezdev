@@ -3,7 +3,7 @@ title: Maizena - Página Oficial Argentina
 date: 2018-06-14 07:30:35 +0300
 subtitle: Desarrollo Web
 description: Cliente - Uniliver
-image: '/images/portfolio/maizena-web.webp'
+image: '/assets/images/portfolio/maizena-web.webp'
 ---
 
 
@@ -28,4 +28,4 @@ Programación de página web, diseño UX/UI y desarrollo de página de e-commerc
 <div class="block-header inner-sm" style="margin-bottom: 1.5em">
   <h2 class="block-title line-top">Screenshot Completo:</h2>
 </div>
- <img src="/images/portfolio/maizena-web-full.webp">
+ <img src="/assets/images/portfolio/maizena-web-full.webp">

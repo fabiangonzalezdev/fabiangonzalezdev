@@ -3,7 +3,7 @@ title: Data capture - Cif Registrate y participá
 date: 2021-09-14 07:30:35 +0300
 subtitle: Trabajo junto a Oliver Argentina
 description: Cliente - Oliver
-image: '/images/portfolio/cif-registrate-y-participa.webp'
+image: '/assets/images/portfolio/cif-registrate-y-participa.webp'
 ---
 
 

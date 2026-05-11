@@ -4,7 +4,7 @@
 title: Fabian Gonzalez 
 tab__title: Fabian Gonzalez ¡Todos podemos programar! Programación y tecnología
 meta__title: Ingeniero de software en DEPT™. Artículos, vídeos, recursos y tutoriales sobre  programación, Frontend, JavaScript ☕️, React ⚛️, CSS y tecnología
-logo: #'/images/logo.webp'
+logo: #'/assets/images/logo.webp'
 description: Ingeniero de software en DEPT™. Artículos, vídeos, recursos y tutoriales sobre  programación, Frontend, JavaScript ☕️, React ⚛️, CSS y tecnología
 
 menu__settings:
@@ -30,7 +30,7 @@ cta__button__text: Cursos
 cta__button_url: 'https://fabiangonzalez.dev/'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
-cover__image: '/images/cover-image.webp'
+cover__image: '/assets/images/cover-image.webp'
 
 
 #-------------------------------
@@ -44,8 +44,8 @@ author:
    <b>Desarrollador Web Senior</b> en <b>Danone (Baufest)</b> con plataforma Adobe Experience Manager (AEM).<br/>
 <b>Tecnologías</b>: HTML, CSS, Javascript, PHP, Mysql, Reactjs, NodeJS.<br/>
 <b>Títulos</b>: de diseñador gráfico digital y Fullstack Developer + React (Universidad Tecnológica nacional). Además me encanta muchisimo el mundo Geek 🤓 "
-  image: '/images/sato-avatar-full.webp'
-  avatar: '/images/sato-avatar.webp'
+  image: '/assets/images/sato-avatar-full.webp'
+  avatar: '/assets/images/sato-avatar.webp'
   button__text: Ver mi trabajo
 
 
@@ -66,22 +66,22 @@ testimonial__title: Mis  <span class="text-span">Clientes</span> # Add a 'text-s
 
 testimonial-items:
   - name: "Levi Robertson"
-    image: "/images/testimonial-levi.jpeg"
+    image: "/assets/images/testimonial-levi.jpeg"
     designation : "Host of JAMstack Phoenix"
     content : "The Angular Tutorial along with Fabian’s advice has completely changed my career..."
 
   - name: "Kaeside Iwuagwu"
-    image: "/images/testimonial-kaeside.jpeg"
+    image: "/assets/images/testimonial-kaeside.jpeg"
     designation : "Implementation Manager at WebMD"
     content : "Fabian has a knack for breaking down complex topics and keeps learning Angular fun."
 
   - name: "Matthew Knowles"
-    image: "/images/testimonial-matthew.jpeg"
+    image: "/assets/images/testimonial-matthew.jpeg"
     designation : "Software Engineer"
     content : "If you are using Angular in a professional setting I can not recommend The Angular Tutorial highly enough."
 
   # - name: "Julie Arnold"
-  #   image: "/images/client-4.webp"
+  #   image: "/assets/images/client-4.webp"
   #   designation : "Full stack developer"
   #   content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 

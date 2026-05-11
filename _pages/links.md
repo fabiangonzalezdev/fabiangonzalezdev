@@ -9,9 +9,9 @@ description: Web development, Diseño gráfico, Creación de WebApps. Mis trabaj
 
 <!-- <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/me.webp" alt="Project">
-    <img src="/images/project-8.webp" alt="Project">
-    <img src="/images/project-6.webp" alt="Project">
+    <img src="/assets/images/me.webp" alt="Project">
+    <img src="/assets/images/project-8.webp" alt="Project">
+    <img src="/assets/images/project-6.webp" alt="Project">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div> -->

@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: Some extra details about myself.
-image: '/images/fabiansato-about.webp'
+image: '/assets/images/fabiansato-about.webp'
 ---
 
 I started my career in marketing consulting working with a variety of Fortune 500 companies. My main focus was data analysis but after coding a few internal tools I eventually decided to quit my job and enter the tech industry.
@@ -13,9 +13,9 @@ If you'd like to get in touch feel free to send me an email at [atom.morgan@gmai
 
 <!-- <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/me.webp" alt="Project">
-    <img src="/images/project-8.webp" alt="Project">
-    <img src="/images/project-6.webp" alt="Project">
+    <img src="/assets/images/me.webp" alt="Project">
+    <img src="/assets/images/project-8.webp" alt="Project">
+    <img src="/assets/images/project-6.webp" alt="Project">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div> -->
