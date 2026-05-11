@@ -1,5 +1,10 @@
 # Compila Jekyll (incluye plugins no soportados por el build nativo de Pages, p. ej. jekyll-tagging)
 # y despliega al entorno github-pages.
+#
+# Prerrequisito (una vez en GitHub): Settings → Pages → Build and deployment
+# → Source / Fuente → "GitHub Actions". Si falta, configure-pages falla con
+# HttpError: Not Found ... get-a-repository-pages-site
+#
 name: Deploy Jekyll site to Pages
 
 on:
@@ -21,7 +26,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -31,7 +36,7 @@ jobs:
 
       - name: Configure Pages
         id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
@@ -39,7 +44,7 @@ jobs:
           JEKYLL_ENV: production
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
 
   deploy:
     environment:
