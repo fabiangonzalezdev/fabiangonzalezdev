@@ -1,7 +1,9 @@
 #-------------------------------
 # General Site Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://satocodes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# Local: baseurl vacío → http://127.0.0.1:4000/
+# Producción (GitHub Pages proyecto): el workflow añade --baseurl en el build.
+baseurl: ""
+url: "https://fabiangonzalezdev.github.io"
 
 
 #-------------------------------

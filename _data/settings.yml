@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
 
-title: FabianSato 
-tab__title: FabianSato ¡Todos podemos programar! Programación y tecnología
+title: Fabian Gonzalez 
+tab__title: Fabian Gonzalez ¡Todos podemos programar! Programación y tecnología
 meta__title: Ingeniero de software en DEPT™. Artículos, vídeos, recursos y tutoriales sobre  programación, Frontend, JavaScript ☕️, React ⚛️, CSS y tecnología
 logo: #'/images/logo.webp'
 description: Ingeniero de software en DEPT™. Artículos, vídeos, recursos y tutoriales sobre  programación, Frontend, JavaScript ☕️, React ⚛️, CSS y tecnología
@@ -27,7 +27,7 @@ menu__settings:
 
 # Call to action button
 cta__button__text: Cursos
-cta__button_url: 'https://fabiansato.com/'
+cta__button_url: 'https://fabiangonzalez.dev/'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
 cover__image: '/images/cover-image.webp'
@@ -37,11 +37,11 @@ cover__image: '/images/cover-image.webp'
 # Author Settings
 
 author:
-  name: Fabian Sato
-  title: 👋Hola soy Fabian Sato
+  name: Fabian Gonzalez
+  title: 👋Hola Fabian Gonzalez
   # bio: Art Director & Graphic Designer based in Australia, crafting beautiful and functional websites and mobile apps. When I’m not working, I’m probably listening to relaxing music or traveling somewhere.
   bio: "
-   <b>Desarrollador Web Senior</b> en <b>Unilever</b> con plataforma Adobe Experience Manager (AEM).<br/>
+   <b>Desarrollador Web Senior</b> en <b>Danone (Baufest)</b> con plataforma Adobe Experience Manager (AEM).<br/>
 <b>Tecnologías</b>: HTML, CSS, Javascript, PHP, Mysql, Reactjs, NodeJS.<br/>
 <b>Títulos</b>: de diseñador gráfico digital y Fullstack Developer + React (Universidad Tecnológica nacional). Además me encanta muchisimo el mundo Geek 🤓 "
   image: '/images/sato-avatar-full.webp'
@@ -98,7 +98,7 @@ blog__settings:
 # Contact Settings
 
 contact__settings:
-  contact__email: contacto@fabiansato.com # Add your email for contact form
+  contact__email: fabiangonzalezdev@gmail.com # Add your email for contact form
   contact__title: Estate <span class="text-span">en contacto</span>  # Add a title to your form
   contact__description: ¿QUieres hablar de trabajo? ¿QUieres hablar de Webdev o diseño? ¡Acá estoy!. # Add a description to your form
 
@@ -117,7 +117,7 @@ mailchimp__settings:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: https-fabiansato-github-io # add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: https-Fabian Gonzalez-github-io # add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
@@ -131,9 +131,9 @@ google-analytics: G-EWFWEGYPFP # Add your identifier. For example UA-99631805-1.
 # Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/fabiansatodev"}
-- {icon: "ion-logo-github", link: "https://github.com/fabiansato"}
-- {icon: "ion-logo-instagram", link: "https://www.instagram.com/fabiansatodev/"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/Fabian Gonzalezdev"}
+- {icon: "ion-logo-github", link: "https://github.com/Fabian Gonzalez"}
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/Fabian Gonzalezdev/"}
 - {icon: "ion-logo-youtube", link: "https://www.youtube.com/channel/UCXvmfLwOtwZS845_-WBFnnQ"}
 # - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 # - {icon: "ion-logo-codepen", link: "https://codepen.io"}

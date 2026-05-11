@@ -1,5 +1,17 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# Jekyll (salida y caché local; no subir a git)
+_site/
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+
+# Ruby / Bundler
+/vendor/bundle
+# config local (ruta de gemas); usar bin/setup tras clonar
+.bundle/
+# Gemfile.lock: en sitios Jekyll conviene versionarlo (CI/desarrollo reproducible).
+
 # dependencies
 /node_modules
 /.pnp
@@ -13,6 +25,8 @@
 
 # misc
 .DS_Store
+Thumbs.db
+.env
 .env.local
 .env.development.local
 .env.test.local
