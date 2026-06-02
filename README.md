@@ -4,7 +4,7 @@ Senior AEM Full-Stack Developer and AEM Tech Lead focused on Adobe Experience Ma
 
 I build scalable web experiences for global brands, combining AEM, Java, React, TypeScript and cloud workflows. My current work is centered on enterprise CMS platforms, component systems, frontend quality and delivery practices for distributed teams.
 
-[Portfolio](https://fabiangonzalezdev.github.io/fabiangonzalezdev/) · [LinkedIn](https://www.linkedin.com/in/fabiangonzalezdev) · [GitHub](https://github.com/fabiangonzalezdev) · [X](https://x.com/fgonzalezdev) · [Instagram](https://www.instagram.com/fabiangonzalezdev/) · [Email](mailto:fabiangonzalezdev@gmail.com)
+[Portfolio](https://fabiangonzalezdev.github.io/) · [LinkedIn](https://www.linkedin.com/in/fabiangonzalezdev) · [GitHub](https://github.com/fabiangonzalezdev) · [X](https://x.com/fgonzalezdev) · [Instagram](https://www.instagram.com/fabiangonzalezdev/) · [Email](mailto:fabiangonzalezdev@gmail.com)
 
 ## About Me
 
@@ -44,7 +44,7 @@ Adobe Experience Manager, AEM Cloud, AEM Developer, AEM Tech Lead, HTL, Sling Mo
 
 ## Featured Links
 
-- Portfolio and CV: [fabiangonzalezdev.github.io/fabiangonzalezdev](https://fabiangonzalezdev.github.io/fabiangonzalezdev/)
+- Portfolio and CV: [fabiangonzalezdev.github.io](https://fabiangonzalezdev.github.io/)
 - LinkedIn: [linkedin.com/in/fabiangonzalezdev](https://www.linkedin.com/in/fabiangonzalezdev)
 - X: [x.com/fgonzalezdev](https://x.com/fgonzalezdev)
 - Instagram: [instagram.com/fabiangonzalezdev](https://www.instagram.com/fabiangonzalezdev/)
