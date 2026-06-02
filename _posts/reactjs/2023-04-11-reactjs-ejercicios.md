@@ -14,17 +14,17 @@ author: fabiansato
 ---
 
 ## Introducción
-Aqui dejaré cada uno de los trabajos realizados en ReactJS
+Aquí dejo algunos de los trabajos realizados en ReactJS.
 
-### links importantes
-- Mi github con otros trabajos
+### Links importantes
+- Mi GitHub con otros trabajos
 - Cheatsheet de ReactJS
 
 
 ## A estudiar!
 
 
-## Ejercicio 01 - Componente simple que devuleva datos
+## Ejercicio 01 - Componente simple que devuelva datos
 
 Desarrollar el maquetado de una pagina de detalle de un producto para un sitio de ecommerce, se deberán visualizar los siguientes datos:
 
@@ -33,9 +33,9 @@ Desarrollar el maquetado de una pagina de detalle de un producto para un sitio d
 - Precio
 - SKU
 - Cantidad disponible
-- Realizar un maquetado con los datos, desarrollado con componentes.WW
+- Realizar un maquetado con los datos, desarrollado con componentes.
 
-[Link ejercicio](https://github.com/fabiansato/reactjs-ejercicio-01-componente "Componente simple que devuleva datos")
+[Link ejercicio](https://github.com/fabiansato/reactjs-ejercicio-01-componente "Componente simple que devuelva datos")
 
 ## Ejercicio 02 - Componente que devuelva titulo, nombre y descripción de una selección de basquet
 
@@ -73,8 +73,8 @@ utilizando react js y JSX, no se deben guardar los usuarios ni realizar lógica 
 
 ### Ejercicio 05
 
-Desarrollar en reactjs  modulos que muestren productos y que se carguen desde stados como objetos. y un boton que cuando lo presioens cambie el contenido del objeto por un contenido nuevo.
-Ademas hacer un contador que inicie en 0 un boton que sirva para incrementar o decrementar ese mismo numero (se tiene que mostrar en pantalla el numero)
+Desarrollar en React módulos que muestren productos cargados desde estados como objetos, junto con un botón que cambie el contenido del objeto por uno nuevo.
+Además, crear un contador que inicie en 0 y tenga botones para incrementar o decrementar ese número, mostrándolo en pantalla.
 
 
 
@@ -152,4 +152,3 @@ Mantener el/los componentes desarrollados hasta el momento.
 Se requiere crear una aplicacion que consuma de la api rest de rick y morty para mostrar los datos de los personajes e imagenes de los mismos
 
 [API rest rick and morty](https://github.com/fabiansato/unidad6-desafio-rick-morty "PI rest rick and morty")
-

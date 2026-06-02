@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Contacto
-description: Web development, Diseño gráfico, Creación de WebApps. Mis trabajos para diferentes marcas y empresas
-image: '/assets/images/book-card.webp'
+description: Contacto profesional para desarrollo web, AEM, frontend, consultoría y capacitaciones.
+image: '/assets/images/brand/cover-image.webp'
 ---
 
-¡Hola a todos!. Por favor contactáme vía mail a [contacto@fabiansato.com](mailto:contacto@fabiansato.com){:target="_blank"} o [click aquí](https://calendly.com/fabiansato/){:target="_blank"} para un meet.
+¡Hola! Podés contactarme por mail a [fabiangonzalezdev@gmail.com](mailto:fabiangonzalezdev@gmail.com){:target="_blank"} o agendar una charla desde [Calendly](https://calendly.com/fabiansato/){:target="_blank"}.
 
 <!-- <div class="gallery-box">
   <div class="gallery">

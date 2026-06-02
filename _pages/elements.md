@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elements
-image: '/assets/images/27.webp'
+image: '/assets/images/brand/cover-image.webp'
 ---
 
 A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
@@ -111,17 +111,17 @@ li {
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/assets/images/02.webp">
-    <img src="/assets/images/10.webp">
-    <img src="/assets/images/11.webp">
-    <img src="/assets/images/12.webp">
-    <img src="/assets/images/14.webp">
-    <img src="/assets/images/27.webp">
+    <img src="/assets/images/portfolio/maizena-web.webp">
+    <img src="/assets/images/portfolio/insanity.webp">
+    <img src="/assets/images/portfolio/guillermomarin.webp">
+    <img src="/assets/images/portfolio/elgenovese.webp">
+    <img src="/assets/images/portfolio/suave-pagina.webp">
+    <img src="/assets/images/portfolio/gerbaundo.webp">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-![Caffe]({{site.baseurl}}/assets/images/16.webp)
+![Portfolio]({{site.baseurl}}/assets/images/portfolio/fabiangonzalezweb.webp)
 *Photo by [Matthew Henry](https://unsplash.com/photos/T-G9PVLOfOY) on Unsplash*
 
 ***

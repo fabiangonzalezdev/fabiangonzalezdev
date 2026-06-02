@@ -2,7 +2,7 @@
 layout: git
 title: Git & Github
 description: Some extra details about myself.
-image: '/assets/images/fabiansato-about.webp'
+image: '/assets/images/profile/fabiansato-about.webp'
 ---
 <div class="row">
     

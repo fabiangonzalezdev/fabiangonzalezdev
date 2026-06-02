@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 # Local: baseurl vacío → http://127.0.0.1:4000/
-# Producción (GitHub Pages proyecto): el workflow añade --baseurl en el build.
+# Producción (GitHub Pages): https://fabiangonzalezdev.github.io/
 baseurl: ""
 url: "https://fabiangonzalezdev.github.io"
 

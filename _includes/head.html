@@ -3,26 +3,40 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.tab__title }}{% endif %}</title>
-  <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.settings.description }}{% endif %}'>
+  {% assign seo_title = page.title | default: site.data.settings.tab__title %}
+  {% assign seo_description = page.description | default: page.excerpt | default: site.data.settings.description | strip_html | strip_newlines | truncate: 160 %}
+  {% assign share_image = page.image | default: site.data.settings.cover__image %}
+  {% assign page_url = page.url | replace:'index.html','' | absolute_url %}
+  {% if page.collection == "posts" %}
+    {% assign og_type = "article" %}
+    {% assign schema_type = "BlogPosting" %}
+  {% else %}
+    {% assign og_type = "website" %}
+    {% assign schema_type = "WebPage" %}
+  {% endif %}
+
+  <title>{{ seo_title }}</title>
+  <meta name="description" content="{{ seo_description | xml_escape }}">
 
   <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="canonical" href="{{ page_url }}">
 
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{% if page.url == "/" %}{{ site.data.settings.meta__title }}{% else %}{{ page.title }} – {{ site.data.settings.tab__title }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.url == "/" %}{{ site.data.settings.description | strip_html | xml_escape }}{% elsif page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ page.excerpt | strip_html | xml_escape }}{% endif %}">
-
-{% assign share_image = page.image | default: site.data.settings.cover__image %}
-  <meta name="twitter:image:src" content="{{ share_image | absolute_url }}">
-  <!-- Facebook OpenGraph -->
-  <meta property="og:title" content="{% if page.url == "/" %}{{ site.data.settings.meta__title }}{% else %}{{ page.title }} – {{ site.data.settings.tab__title }}{% endif %}">
-  <meta property="og:description" content="{% if page.url == "/" %}{{ site.data.settings.description | strip_html | xml_escape }}{% elsif page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ page.excerpt | strip_html | xml_escape }}{% endif %}">
+  <!-- Social metadata -->
+  <meta property="og:type" content="{{ og_type }}">
+  <meta property="og:site_name" content="{{ site.data.settings.title }}">
+  <meta property="og:url" content="{{ page_url }}">
+  <meta property="og:title" content="{{ seo_title | xml_escape }}">
+  <meta property="og:description" content="{{ seo_description | xml_escape }}">
   <meta property="og:image" content="{{ share_image | absolute_url }}">
   <meta property="og:image:width" content="705">
   <meta property="og:image:height" content="368">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@mistersatodev">
+  <meta name="twitter:creator" content="@mistersatodev">
+  <meta name="twitter:title" content="{{ seo_title | xml_escape }}">
+  <meta name="twitter:description" content="{{ seo_description | xml_escape }}">
+  <meta name="twitter:image" content="{{ share_image | absolute_url }}">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;800;900&display=swap" rel="stylesheet">
@@ -62,46 +76,19 @@
   <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
   <link href="{{ site.baseurl }}/assets/css/estilos.css" rel="stylesheet">
 
-
-  {% if page.is_post %}
-  {% assign type = "article" %}
-{% else %}
-  {% assign type = "website" %}
-{% endif %}
-  <!-- http://ogp.me/ -->
-  <meta property="og:type" content="{{ type }}" />
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 140 }}{% else %}{{ site.description }}{% endif %}" />
-  {% if page.is_post %}
-  <meta property="og:site_name" content="{{ site.title }}" />
-  {% endif %}
-  <!-- https://dev.twitter.com/cards/overview -->
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@fabiansatodev" /> <!-- Cambiar por tu usuario de twitter {{ site.twitter_username }}-->
-  <meta name="twitter:creator" content="@fabiansatodev" /> <!-- Cambiar por tu usuario de twitter -->
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 140 }}{% else %}{{ site.description }}{% endif %}" />
-  <meta name="twitter:image" content="{{ share_image | absolute_url }}">
-
-  {% if page.is_post %}
-  {% assign type = "BlogPosting" %}
-{% else %}
-  {% assign type = "Blog" %}
-{% endif %}
-  <!-- http://schema.org/ -->
+  <!-- Schema.org -->
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
-    "@type": "{{ type }}",
-    "@id": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}",
-    "url": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}",
+    "@type": "{{ schema_type }}",
+    "@id": "{{ page_url }}",
+    "url": "{{ page_url }}",
     "mainEntityOfPage": {
-      "@type": "{{ type }}",
-      "@id": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+      "@type": "{{ schema_type }}",
+      "@id": "{{ page_url }}"
     },
-    "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
-    "description": "{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 140 }}{% else %}{{ site.description }}{% endif %}",
+    "headline": "{{ seo_title | strip_html | strip_newlines | xml_escape }}",
+    "description": "{{ seo_description | xml_escape }}",
   {% if page.date %}
     "datePublished": "{{ page.date | date_to_xmlschema }}",
   {% endif %}
@@ -113,14 +100,14 @@
   {% endif %}
     "author": {
       "@type": "Person",
-      "name": "{{ site.author }}"
+      "name": "{{ site.data.settings.author.name }}"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "{{ site.title }}",
+      "name": "{{ site.data.settings.title }}",
       "logo": {
         "@type": "ImageObject",
-        "url": "{{ site.gravatar_url }}",
+        "url": "{{ site.data.settings.author.avatar | absolute_url }}",
         "width": 60,
         "height": 60
       }

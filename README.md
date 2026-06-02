@@ -10,7 +10,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 # **Programación**
 ### 🐍 Python
 
-<img src="assets/logos/python.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/python.png" alt="alt text" width="200"/>
 
 [Cheatsheet Python](https://github.com/fabiansato/python-cheatsheet "Cheatsheet Python por fabiansato")
 
@@ -20,7 +20,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 
 ### C
-<img src="assets/logos/c.png" alt="Programacion en C - Fabian Sato" width="200"/>
+<img src="assets/images/logos/tech/c.png" alt="Programacion en C - Fabian Sato" width="200"/>
 
 [Cheatsheet C](https://github.com/fabiansato/C-Cheatsheet "Cheatsheet C por fabiansato")
 
@@ -28,7 +28,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 
 ### C++
-<img src="assets/logos/cpp.png" alt="Programacion en C++ - Fabian Sato" width="200"/>
+<img src="assets/images/logos/tech/cpp.png" alt="Programacion en C++ - Fabian Sato" width="200"/>
 
 
 [Cheatsheet C++](https://github.com/fabiansato/cpp-cheatsheet "Cheatsheet C++ por fabiansato")
@@ -38,7 +38,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 
 ### Java
-<img src="assets/logos/java.png" alt="Programación en Java" width="200"/>
+<img src="assets/images/logos/tech/java.png" alt="Programación en Java" width="200"/>
 
 [Cheatsheet JAVA](https://github.com/fabiansato/java-cheatsheet "Cheatsheet JAVA por fabiansato")
 
@@ -47,7 +47,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 ### 💻 Javascript
 
-<img src="assets/logos/javascript.png" alt="Programación en Java" width="200"/>
+<img src="assets/images/logos/tech/javascript.png" alt="Programación en Java" width="200"/>
 
 [Cheatsheet Javascript](https://github.com/fabiansato/javascript-cheatsheet "Cheatsheet Javascript por fabiansato")
 
@@ -55,7 +55,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 
 ### 💻 PHP
-<img src="assets/logos/php.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/php.png" alt="alt text" width="200"/>
 
 [Cheatsheet PHP](https://github.com/fabiansato/php-cheatsheet "Cheatsheet PHP por fabiansato")
 
@@ -65,7 +65,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 # **Programación web**
 
 ### 💻 HTML
-<img src="assets/logos/html5.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/html5.png" alt="alt text" width="200"/>
 
 
 [Cheatsheet HTML5](https://github.com/fabiansato/html5-cheatsheet "Cheatsheet de HTML5 por fabiansato")
@@ -83,20 +83,20 @@ HTML 5 estructura web:
 
 ### 💻 CSS
 
-<img src="assets/logos/css3.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/css3.png" alt="alt text" width="200"/>
 
 
 #### BOOTSTRAP
-<img src="assets/logos/bootstrap.png" alt="Programacion en C++ - Fabian Sato" width="200"/>
+<img src="assets/images/logos/tech/bootstrap.png" alt="Programacion en C++ - Fabian Sato" width="200"/>
 
 #### SASS
-<img src="assets/logos/sass.png" alt="Programacion en C++ - Fabian Sato" width="200"/>
+<img src="assets/images/logos/tech/sass.png" alt="Programacion en C++ - Fabian Sato" width="200"/>
 
 
 
 ### REACTJS
 
-<img src="assets/logos/reactjs.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/reactjs.png" alt="alt text" width="200"/>
 
 [Cheatsheet ReactJS](https://github.com/fabiansato/reactjs-cheatsheet/ "Cheatsheet ReactJS por fabiansato")
 
@@ -107,7 +107,7 @@ HTML 5 estructura web:
 
 ### Markdown
 
-<img src="assets/logos/markdown.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/markdown.png" alt="alt text" width="200"/>
 
 
 [Cheatsheet Markdown](https://github.com/fabiansato/Markdown-cheatsheet "Markdown Cheatsheet")
@@ -118,7 +118,7 @@ HTML 5 estructura web:
 
 
 ### 💻 NodeJS
-<img src="assets/logos/nodejs.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/nodejs.png" alt="alt text" width="200"/>
 
 [Cheatsheet NodeJS](https://github.com/fabiansato/nodeJS-cheatsheet "Cheatsheet de NodeJS por FabianSato")
 
@@ -127,26 +127,26 @@ HTML 5 estructura web:
 [Ejercicios de NodeJS](https://github.com/fabiansato/nodejs-ejercicios "Ejercicios NodeJS por FabianSato")
 
 ### 💻 Npm
-<img src="assets/logos/npm.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/npm.png" alt="alt text" width="200"/>
 
 
 
 ### 💻 MYSQL
-<img src="assets/logos/mysql.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/mysql.png" alt="alt text" width="200"/>
 
 ### 💻 PHPMYADMIN
-<img src="assets/logos/phpmyadmin.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/phpmyadmin.png" alt="alt text" width="200"/>
 
 ## 💻 **TERMINAL**
 ### Terminal
-<img src="assets/logos/terminal.png" alt="Programación en Batch" width="200"/>
+<img src="assets/images/logos/tech/terminal.png" alt="Programación en Batch" width="200"/>
 
 [Cheatsheet Terminal Linux ](https://github.com/fabiansato/linux-terminal-cheatsheet/ "Cheatsheet Terminal Linux por fabiansato")
 
 
 ### Batch
 
-<img src="assets/logos/batch.png" alt="Programación en Batch" width="200"/>
+<img src="assets/images/logos/tech/batch.png" alt="Programación en Batch" width="200"/>
 
 
 
@@ -155,7 +155,7 @@ HTML 5 estructura web:
 ## 💻 **Pseudocódigo**
 
 ## Pseint
-<img src="assets/logos/pseint-logo.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/pseint-logo.png" alt="alt text" width="200"/>
 
 ##Programacion Estructural
 
@@ -172,13 +172,13 @@ HTML 5 estructura web:
 # **Electrónica**
 ###Arduino
 
-<img src="assets/logos/arduino.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/arduino.png" alt="alt text" width="200"/>
 
 
 # **Gestores de versiones**
 ## GIT
 
-<img src="assets/logos/git.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/git.png" alt="alt text" width="200"/>
 
 [Cheatsheet GIT](https://github.com/fabiansato/GIT-Cheatsheet "Cheatsheet GIT por fabiansato")
 
@@ -186,11 +186,11 @@ HTML 5 estructura web:
 
 ## GITHUB
 
-<img src="assets/logos/github.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/github.png" alt="alt text" width="200"/>
 
 ## BITBUCKET
 
-<img src="assets/logos/bitbucket.png" alt="Bitbucket" width="200"/>
+<img src="assets/images/logos/tech/bitbucket.png" alt="Bitbucket" width="200"/>
                                                                                               
 # **Utilitarios**
 ### VSCODE
@@ -198,13 +198,13 @@ HTML 5 estructura web:
 
 # **Diseño gráfico**
 ## Adobe Illustrator
-<img src="assets/logos/adobeillustrator.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/adobeillustrator.png" alt="alt text" width="200"/>
 
 ## Adobe Photoshop
-<img src="assets/logos/adobephotohshop.png" alt="alt text" width="200"/>
+<img src="assets/images/logos/tech/adobephotohshop.png" alt="alt text" width="200"/>
 
 ## **Un Carpincho para descontracturar**
-<img src="assets/logos/capibara.png" alt="Capibara- Fabian Sato" width="200"/>
+<img src="assets/images/logos/tech/capibara.png" alt="Capibara- Fabian Sato" width="200"/>
 
 La menera de estudiar y trabajar será la siguiente:
 - 📓 Anotar cursos en one note ...
