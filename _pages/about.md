@@ -9,7 +9,7 @@ I started my career in marketing consulting working with a variety of Fortune 50
 
 Since then I spend most of my time working with JavaScript/TypeScript and MEAN stacks. I've worked in a variety of environments ranging from Fortune 500 companies to startups and creative agencies. Across these companies, I've taken various roles ranging from full-stack development to UI design and UX research.
 
-If you'd like to get in touch, feel free to send me an email at [fabiangonzalezdev@gmail.com](mailto:fabiangonzalezdev@gmail.com){:target="_blank"}. You can also download my [updated CV]({{ '/assets/documents/cv/Fabian_Gonzalez_CV_Detailed.pdf' | relative_url }}){:target="_blank"}, follow me on <a href="https://x.com/mistersatodev" target="_blank">X</a>, <a href="https://www.instagram.com/mistersatodev" target="_blank">Instagram</a>, <a href="https://www.linkedin.com/in/fabiangonzalezdev" target="_blank">LinkedIn</a>, and <a href="https://github.com/fabiangonzalezdev" target="_blank">GitHub</a>.
+If you'd like to get in touch, feel free to send me an email at [fabiangonzalezdev@gmail.com](mailto:fabiangonzalezdev@gmail.com){:target="_blank"}. You can also download my [updated CV]({{ '/assets/documents/cv/Fabian_Gonzalez_CV_Detailed.pdf' | relative_url }}){:target="_blank"}, follow me on <a href="https://x.com/fgonzalezdev" target="_blank">X</a>, <a href="https://www.instagram.com/fabiangonzalezdev/" target="_blank">Instagram</a>, <a href="https://www.linkedin.com/in/fabiangonzalezdev" target="_blank">LinkedIn</a>, and <a href="https://github.com/fabiangonzalezdev" target="_blank">GitHub</a>.
 
 <!-- <div class="gallery-box">
   <div class="gallery">
